@@ -1,0 +1,74 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\jx372\git\SMS\SMS\sample\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from D:\jx372\git\SMS\SMS\sample\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\jx372\git\SMS\SMS\sample\src\main\AndroidManifest.xml
+		INJECTED from D:\jx372\git\SMS\SMS\sample\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\jx372\git\SMS\SMS\sample\src\main\AndroidManifest.xml
+		INJECTED from D:\jx372\git\SMS\SMS\sample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\jx372\git\SMS\SMS\sample\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\jx372\git\SMS\SMS\sample\src\main\AndroidManifest.xml
+		INJECTED from D:\jx372\git\SMS\SMS\sample\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\jx372\git\SMS\SMS\sample\src\main\AndroidManifest.xml:4:5-81
+	android:name
+		ADDED from D:\jx372\git\SMS\SMS\sample\src\main\AndroidManifest.xml:4:22-78
+application
+ADDED from D:\jx372\git\SMS\SMS\sample\src\main\AndroidManifest.xml:6:5-20:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\bit-user\.android\build-cache\bd3a5d7bcf5ba21f8d6291f5242dbd017f7825a5\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\bit-user\.android\build-cache\18c52744e173c2375be9e4b76ba85f28d997641c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\bit-user\.android\build-cache\09cf60a26321661d668f468038a5e4a86691089a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\bit-user\.android\build-cache\dfb325b24d85613a62f77003d68b59dc8c5692dd\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\bit-user\.android\build-cache\30ebbb54ce5ea621f63d27d654d5a7658756238b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\bit-user\.android\build-cache\8a9fe0f1d294823fbe0cc939de000df07cf3cc18\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\bit-user\.android\build-cache\28c79ad4c97be6d8d77bee5d8d35df6e177a4d80\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\bit-user\.android\build-cache\f7a7df333d63ebbe57291447b423cf1e8f4d603d\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\bit-user\.android\build-cache\b9935e3d51da3b45cfc30d55eec36fca6c9140bc\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\jx372\git\SMS\SMS\sample\src\main\AndroidManifest.xml:9:9-41
+	android:allowBackup
+		ADDED from D:\jx372\git\SMS\SMS\sample\src\main\AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from D:\jx372\git\SMS\SMS\sample\src\main\AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from D:\jx372\git\SMS\SMS\sample\src\main\AndroidManifest.xml:10:9-40
+activity#sundeepk.github.com.sample.MainActivity
+ADDED from D:\jx372\git\SMS\SMS\sample\src\main\AndroidManifest.xml:11:9-19:20
+	android:label
+		ADDED from D:\jx372\git\SMS\SMS\sample\src\main\AndroidManifest.xml:13:13-45
+	android:name
+		ADDED from D:\jx372\git\SMS\SMS\sample\src\main\AndroidManifest.xml:12:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\jx372\git\SMS\SMS\sample\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from D:\jx372\git\SMS\SMS\sample\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from D:\jx372\git\SMS\SMS\sample\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\jx372\git\SMS\SMS\sample\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from D:\jx372\git\SMS\SMS\sample\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from D:\jx372\git\SMS\SMS\sample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [SMS:library:unspecified] D:\jx372\git\SMS\SMS\library\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\bit-user\.android\build-cache\bd3a5d7bcf5ba21f8d6291f5242dbd017f7825a5\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\bit-user\.android\build-cache\18c52744e173c2375be9e4b76ba85f28d997641c\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\bit-user\.android\build-cache\09cf60a26321661d668f468038a5e4a86691089a\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\bit-user\.android\build-cache\dfb325b24d85613a62f77003d68b59dc8c5692dd\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\bit-user\.android\build-cache\30ebbb54ce5ea621f63d27d654d5a7658756238b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\bit-user\.android\build-cache\8a9fe0f1d294823fbe0cc939de000df07cf3cc18\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\bit-user\.android\build-cache\28c79ad4c97be6d8d77bee5d8d35df6e177a4d80\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\bit-user\.android\build-cache\f7a7df333d63ebbe57291447b423cf1e8f4d603d\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\bit-user\.android\build-cache\b9935e3d51da3b45cfc30d55eec36fca6c9140bc\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\bit-user\.android\build-cache\bd3a5d7bcf5ba21f8d6291f5242dbd017f7825a5\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\jx372\git\SMS\SMS\sample\src\main\AndroidManifest.xml
+		INJECTED from D:\jx372\git\SMS\SMS\sample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\jx372\git\SMS\SMS\sample\src\main\AndroidManifest.xml
+		INJECTED from D:\jx372\git\SMS\SMS\sample\src\main\AndroidManifest.xml

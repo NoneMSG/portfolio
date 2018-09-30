@@ -1,0 +1,4 @@
+#Fri Oct 20 18:54:36 KST 2017
+base.0=D\:\\jx372\\git\\SMS\\SMS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7
+renamed.0=classes.dex
+file.0=D\:\\jx372\\git\\SMS\\SMS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7\\classes.dex

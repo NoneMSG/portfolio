@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/txtTitle"
+        android:text="[주간 계획] 2017-08-28"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:textColor="#404040"
+        android:paddingLeft="8dp"
+        android:paddingTop="5dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/txtWriteDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#828282"
+            android:text="작성일 : 2017-08-25"
+            android:layout_weight="1"/>
+
+        <TextView
+            android:id="@+id/txtFixed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#880000"/>
+    </LinearLayout>
+
+</LinearLayout>

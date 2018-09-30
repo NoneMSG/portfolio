@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.admin.gabizo3.DrawActivity"
+    tools:showIn="@layout/activity_draw"
+    android:background="#f8eccb">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="430dp"
+        android:layout_height="300dp"
+        android:id="@+id/paintboard"
+        android:background="#FFFFFF"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignBottom="@+id/toDrive_Btn"
+        android:layout_alignTop="@+id/clearBtn">
+
+    </LinearLayout>
+
+
+
+    <ImageButton
+        android:layout_width="70dp"
+        android:layout_height="65dp"
+        android:id="@+id/undoBtn"
+        android:layout_marginTop="15dp"
+        android:layout_below="@+id/clearBtn"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="false"
+        android:textColor="#FFFFFFFF"
+        android:layout_marginRight="18dp"
+        android:background="@drawable/undo" />
+
+    <ImageButton
+        android:layout_width="70dp"
+        android:layout_height="60dp"
+        android:id="@+id/toDrive_Btn"
+        android:nestedScrollingEnabled="false"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/change"
+        android:textColor="#FFFFFFFF"
+        android:layout_below="@+id/transmit_Btn"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="false"
+        android:layout_marginRight="18dp" />
+
+    <ImageButton
+        android:layout_width="70dp"
+        android:layout_height="65dp"
+        android:id="@+id/transmit_Btn"
+        android:layout_centerVertical="true"
+        android:layout_below="@+id/undoBtn"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="false"
+        android:layout_marginTop="15dp"
+        android:textSize="12dp"
+        android:textColor="#FFFFFFFF"
+        android:background="@drawable/transmitbuttonselector"
+        android:layout_marginRight="18dp" />
+
+    <ImageButton
+        android:layout_width="70dp"
+        android:layout_height="55dp"
+        android:id="@+id/clearBtn"
+        android:background="@drawable/clear"
+        android:textColor="#FFFFFFFF"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="18dp" />
+
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/transmit_state"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="false"
+        android:textColor="#000000" />
+
+    <TextView
+        android:layout_width="25dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/cordinate_Num"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/paintboard"
+        android:layout_alignEnd="@+id/paintboard"
+        android:text="0"
+        android:textColor="#ff0000" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="좌표의 개수 : "
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/cordinate_Num"
+        android:layout_toStartOf="@+id/cordinate_Num"
+        android:textColor="#000000" />
+
+</RelativeLayout>

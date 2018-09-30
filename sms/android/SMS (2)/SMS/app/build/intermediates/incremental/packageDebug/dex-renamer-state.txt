@@ -1,0 +1,7 @@
+#Fri Oct 20 16:08:45 KST 2017
+base.0=D\:\\jx372\\git\\SMS\\SMS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a0166cd43afe9f2f5f73cf43e1bf8ee2dcc8ea60
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\jx372\\git\\SMS\\SMS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_27d720d5878bf6f8bb74a2301a6774392d1f6a88\\classes.dex
+base.1=D\:\\jx372\\git\\SMS\\SMS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_27d720d5878bf6f8bb74a2301a6774392d1f6a88
+file.0=D\:\\jx372\\git\\SMS\\SMS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a0166cd43afe9f2f5f73cf43e1bf8ee2dcc8ea60\\classes.dex

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/backGound"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <!--<Button
+                android:id="@+id/btn_a"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="#fff"
+                android:drawableLeft="@drawable/ic_main_calendar_unselected"
+
+                style="@style/Widget.AppCompat.ActionButton"/>-->
+
+            <ImageButton
+                android:id="@+id/btn_a"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#fff"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:src="@drawable/ic_main_graph_unselected"
+                style="@style/Widget.AppCompat.ActionButton"
+                />
+            <ImageButton
+                android:id="@+id/btn_b"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#fff"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:focusableInTouchMode="true"
+                android:src="@drawable/ic_main_calendar_unselected"
+                style="@style/Widget.AppCompat.ActionButton"
+                />
+            <ImageButton
+                android:id="@+id/btn_c"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#fff"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:src="@drawable/ic_main_list_unselected"
+                style="@style/Widget.AppCompat.ActionButton"
+                />
+            <!--<Button
+                android:id="@+id/btn_b"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="그래프"
+                android:background="#fff"
+                style="@style/Widget.AppCompat.ActionButton"/>
+            <Button
+                android:id="@+id/btn_c"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="게시글"
+                android:background="#fff"
+                style="@style/Widget.AppCompat.ActionButton"/>-->
+
+        </LinearLayout>
+
+        <android.support.design.widget.CoordinatorLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/viewPager"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"/>
+
+            <!--android:src="@drawable/plus_icon" //여기에서 아이콘을 등록해주시면됩니다
+            app:backgroundTint="@color/colorMainColor" //app로 하셔야합니다!! 배경색을 지정할수있습니다.-->
+
+            <android.support.design.widget.FloatingActionButton
+                android:id="@+id/fab1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|right"
+                app:layout_anchorGravity="bottom|right|end"
+                app:fabSize="normal"
+                app:srcCompat="@drawable/ic_add_white"/>
+
+
+            <LinearLayout
+                android:id="@+id/fablayoutinner"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+
+                <com.ogaclejapan.arclayout.ArcLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    app:arc_origin="bottom|right"
+                    app:arc_radius="220dp"
+                    app:arc_axisRadius="220dp"
+                    app:arc_freeAngle="false"
+                    app:arc_reverseAngle="false">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/weeklable"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="주간계획서 "
+                            android:layout_gravity="bottom"
+                            android:textColor="#ffffff"
+                            />
+                        <android.support.design.widget.FloatingActionButton
+                            android:id="@+id/fab2"
+                            app:arc_origin="bottom"
+                            app:fabSize="mini"
+                            app:backgroundTint="#FFFFFF"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="bottom|end"
+                            app:srcCompat="@android:drawable/ic_menu_today" />
+
+                    </LinearLayout>
+
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/dailylable"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="일일보고서 "
+                            android:layout_gravity="bottom"
+                            android:textColor="#ffffff"
+                            />
+                        <android.support.design.widget.FloatingActionButton
+                            android:id="@+id/fab3"
+                            app:arc_origin="bottom"
+                            app:fabSize="mini"
+                            app:backgroundTint="#FFFFFF"
+                            app:srcCompat="@android:drawable/ic_menu_day"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="bottom|end"
+                            />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/consullable"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="상담일지 "
+                            android:layout_gravity="bottom"
+                            android:textColor="#ffffff"
+                            />
+                        <!--
+                        app:srcCompat="@android:drawable/ic_menu_week"
+                        app:srcCompat="@android:drawable/ic_menu_day" 1
+                        app:srcCompat="@android:drawable/ic_menu_today" 강조
+                        app:srcCompat="@android:drawable/ic_menu_edit"
+
+                        app:srcCompat="@android:drawable/ic_dialog_dialer"
+
+                        app:srcCompat="@android:drawable/ic_btn_speak_now"
+                        -->
+                        <android.support.design.widget.FloatingActionButton
+                            android:id="@+id/fab4"
+                            app:arc_origin="bottom"
+                            app:fabSize="mini"
+                            app:backgroundTint="#FFFFFF"
+                            app:srcCompat="@android:drawable/ic_menu_edit"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="bottom|end"
+                            />
+                    </LinearLayout>
+
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="검색 "
+                            android:layout_gravity="top"
+                            android:textColor="#ffffff"
+                            />
+
+                        <!--
+                        app:srcCompat="@android:drawable/ic_search_category_default"
+                        -->
+                        <android.support.design.widget.FloatingActionButton
+                            android:id="@+id/fab5"
+                            app:arc_origin="bottom"
+                            app:fabSize="mini"
+                            app:backgroundTint="#FFFFFF"
+                            app:fab_label="Search"
+                            app:srcCompat="@android:drawable/ic_menu_search"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="bottom|end"
+                            />
+                    </LinearLayout>
+                </com.ogaclejapan.arclayout.ArcLayout>
+            </LinearLayout>
+
+            <!--<LinearLayout
+                android:id="@+id/fablayoutinner"
+                android:layout_width="62dp"
+                android:layout_height="300dp"
+                android:layout_marginLeft="-60dp"
+                android:layout_marginTop="-20dp"
+                android:orientation="horizontal"
+                android:visibility="gone">
+
+                <android.support.design.widget.FloatingActionButton
+                    android:id="@+id/fab2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom|end"
+                    android:layout_margin="20dp"
+                    app:srcCompat="@android:drawable/ic_menu_camera" />
+
+                <android.support.design.widget.FloatingActionButton
+                    android:id="@+id/fab3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom|end"
+                    android:layout_margin="20dp" />
+
+                <android.support.design.widget.FloatingActionButton
+                    android:id="@+id/fab4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom|end"
+                    android:layout_margin="20dp" />
+
+                <android.support.design.widget.FloatingActionButton
+                    android:id="@+id/fab5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom|end"
+                    android:layout_margin="20dp" />
+
+            </LinearLayout>-->
+        </android.support.design.widget.CoordinatorLayout>
+    </LinearLayout>
+</LinearLayout>

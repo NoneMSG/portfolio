@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:padding="10dp"
+    tools:context="com.example.bit_user.sms.ProfileActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="1">
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:textSize="30dp"
+            android:textColor="#333"
+            android:text="PROFILE 설정"
+            android:drawableLeft="@drawable/ic_profile_person"
+            android:background="@drawable/txt_underline"
+            android:paddingBottom="12dp"/>
+
+        <TextView
+            android:id="@+id/userName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/textView"
+            android:layout_below="@+id/textView"
+            android:layout_marginTop="13dp"
+            android:textStyle="bold"
+            android:text="" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="비밀번호 변경"
+            android:layout_below="@+id/userName"
+            android:textStyle="bold"
+            android:layout_alignStart="@+id/userName"
+            android:layout_marginTop="21dp" />
+
+
+        <EditText
+            android:id="@+id/newPassword"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPassword"
+            android:hint="비밀번호를 입력하세요"
+            android:layout_marginTop="10dp"
+            android:padding="5dp"
+            android:background="@drawable/edit_text_box"/>
+
+
+        <EditText
+            android:id="@+id/newPasswordCheck"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="비밀번호 확인"
+            android:inputType="textPassword"
+            android:layout_marginTop="10dp"
+            android:padding="5dp"
+            android:background="@drawable/edit_text_box"/>
+
+        <TextView
+            android:id="@+id/password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#880000"
+            android:textStyle="italic"
+            android:drawableLeft="@drawable/ic_profile_error"
+            android:visibility="gone"
+            />
+
+        <TextView
+            android:id="@+id/passwordLengthCheck"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#880000"
+            android:textStyle="italic"
+            android:text="비밀번호는 6~12자로 사용하여 주세요."
+            android:drawableLeft="@drawable/ic_profile_error"
+            android:visibility="gone"
+            />
+
+        <TextView
+            android:id="@+id/userDepartment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="7dp"
+            android:text=""
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/userManager"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textStyle="bold"
+            android:layout_marginTop="18dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/cancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#ffffff"
+            android:textColor="@color/btn_cancel_text"
+            android:text="CANCEL"/>
+        <Button
+            android:id="@+id/apply"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="APPLY"
+            android:backgroundTint="#ffffff"
+            android:textColor="@color/sms_red"
+            android:layout_weight="1"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

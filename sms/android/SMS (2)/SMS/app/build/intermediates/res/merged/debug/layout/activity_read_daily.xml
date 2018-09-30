@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context="com.example.bit_user.sms.ReadDailyActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/txt_underline"
+        android:paddingBottom="12dp">
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="5dp">
+
+            <TextView
+                android:id="@+id/txtDep"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/text_basic"
+                android:text=" department" />
+
+            <TextView
+                android:id="@+id/txtLeader"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/text_basic"
+                android:layout_weight="1"
+                android:text=" Leader" />
+
+            <TextView
+                android:id="@+id/txtName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textColor="@color/text_basic"
+                android:text=" name" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/txtDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/text_basic"
+                android:layout_weight="1"
+                android:text=" date" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/txtTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:text="[일일 업무 보고]"
+        android:textColor="#333"
+        android:layout_marginTop="10dp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="15dp"
+                android:padding="3dp"
+                android:background="#FFFACC">
+                <TextView
+                    android:id="@+id/txtGoal"
+                    android:layout_marginTop="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#333"
+                    android:text=" 목표액 : " />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="8dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/txtSale"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:textColor="#333"
+                        android:text=" 매출액 : " />
+
+                    <TextView
+                        android:id="@+id/txtRate"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="10dp"
+                        android:text="달성율 : "
+                        android:textColor="#880000" />
+
+                </LinearLayout>
+
+
+                <TextView
+                    android:id="@+id/txtStart"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:textColor="#333"
+                    android:text=" 출근 시 계기판 : " />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="8dp"
+                    android:orientation="horizontal"
+                    android:paddingBottom="10dp">
+
+                    <TextView
+                        android:id="@+id/txtEnd"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:textColor="#333"
+                        android:text=" 퇴근 시 계기판 : " />
+
+                    <TextView
+                        android:id="@+id/txtDis"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="10dp"
+                        android:text="주행거리 : "
+                        android:textColor="#880000" />
+
+                </LinearLayout>
+
+                <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:textStyle="bold"
+                android:paddingBottom="2dp"
+                android:textColor="#333"
+                android:text="업무 보고 "
+                />
+                <!--android:background="@drawable/edit_line"-->
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:paddingBottom="15dp"
+                    >
+                    <!--android:background="@drawable/txt_underline"-->
+                    <TextView
+                        android:id="@+id/txtDailyReport"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="#333"
+                        android:padding="5dp"
+                        android:layout_marginTop="3dp"
+                        />
+                </LinearLayout>
+            </LinearLayout>
+
+
+
+            <TextView
+                android:id="@+id/txtlistconsultation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="상담일지 "
+                android:textStyle="bold"
+                android:textColor="#333"
+                android:paddingBottom="2dp"
+                android:background="@drawable/edit_line"/>
+
+            <ListView
+                android:id="@+id/listConsultation"
+                android:layout_width="match_parent"
+                android:background="#fff"
+                android:layout_height="wrap_content">
+
+            </ListView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal"
+                android:background="#fff"
+                android:padding="5dp">
+
+                <TextView
+                    android:id="@+id/uploadName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textStyle="bold"
+                    android:textColor="#333"
+                    android:text="업로드 리스트" />
+
+                <Button
+                    android:id="@+id/fileExplorer"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_margin="0dp"
+                    android:padding="0dp"
+                    android:background="@drawable/ic_daily_search_file"
+                    style="?android:attr/borderlessButtonStyle"/>
+
+                <Button
+                    android:id="@+id/sendfilebtn"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_margin="0dp"
+                    android:padding="0dp"
+                    android:background="@drawable/ic_daily_file_upload"/>
+
+            </LinearLayout>
+
+            <ListView
+                android:id="@+id/uploadFileList"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#fff"
+                android:layout_marginTop="15dp"></ListView>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/txtlistfile"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:text="첨부파일 "
+                    android:textStyle="bold"
+                    android:textColor="#333"
+                    android:paddingBottom="2dp"
+                    android:background="@drawable/edit_line"/>
+
+                <ProgressBar xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:id="@+id/loading"
+                    android:layout_marginTop="15dp"
+                    android:layout_width="20dip"
+                    android:layout_height="20dip"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+            <ListView
+                android:id="@+id/listAttachment"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:background="#fff"
+                android:layout_marginTop="15dp">
+
+            </ListView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/textView9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Comment "
+                    android:textStyle="bold"
+                    android:textColor="#333"
+                    android:paddingBottom="2dp"
+                    android:background="@drawable/edit_line"/>
+
+                <Button
+                    android:id="@+id/btnComment"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_margin="0dp"
+                    android:padding="0dp"
+                    android:background="@drawable/ic_daily_add_comment" />
+
+            </LinearLayout>
+
+            <ListView
+                android:id="@+id/listComment"
+                android:background="#fff"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+            </ListView>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text=" ※ 팀장 승인"
+                    android:textColor="#4ABECA" />
+
+                <Button
+                    android:id="@+id/btnReturn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="30dp"
+                    android:layout_margin="0dp"
+                    android:onClick="onClickRequest"
+                    android:padding="0dp"
+                    android:text="반려"
+                    android:visibility="gone"
+                    android:backgroundTint="#E8E8E8"
+                    style="?android:attr/borderlessButtonStyle"
+                    android:textColor="@color/text_basic"/>
+
+                <Button
+                    android:id="@+id/btnApproval"
+                    android:layout_width="wrap_content"
+                    android:layout_height="30dp"
+                    android:layout_margin="0dp"
+                    android:onClick="onClickRequest"
+                    android:padding="0dp"
+                    android:text="승인"
+                    android:visibility="gone"
+                    android:backgroundTint="#E8E8E8"
+                    style="?android:attr/borderlessButtonStyle"
+                    android:textColor="#800"/>
+
+                <Button
+                    android:id="@+id/btnRequest"
+                    android:layout_width="wrap_content"
+                    android:layout_height="30dp"
+                    android:layout_margin="0dp"
+                    android:onClick="onClickRequest"
+                    android:padding="0dp"
+                    android:textStyle="bold"
+                    android:backgroundTint="#E8E8E8"
+                    android:text="승인요청"
+                    style="?android:attr/borderlessButtonStyle"
+                    android:textColor="#800"/>
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/txtLeaderOp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="[승인된 보고서가 아닙니다.]"
+                android:textColor="#4ABECA" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <Button
+            android:id="@+id/btnCancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="CANCEL"
+            android:backgroundTint="#ffffff"
+            android:textColor="@color/btn_cancel_text"/>
+
+        <Button
+            android:id="@+id/btnModify"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="modify"
+            android:backgroundTint="#ffffff"/>
+
+        <Button
+            android:id="@+id/btnDelete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#ffffff"
+            android:textColor="@color/sms_red"
+            android:text="delete" />
+
+    </LinearLayout>
+
+</LinearLayout>

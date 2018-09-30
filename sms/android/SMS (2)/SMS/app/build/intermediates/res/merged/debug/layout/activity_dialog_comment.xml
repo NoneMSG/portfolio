@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="300dp"
+    android:layout_height="180dp"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:background="#FFFFFF"
+    android:padding="15dp"
+    tools:context="com.example.bit_user.sms.DialogCommentActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="COMMENT"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:textColor="#A8A8A8"
+        android:layout_marginBottom="3dp"/>
+
+    <EditText
+        android:id="@+id/editComment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="내용을 입력해주세요."
+        android:background="@drawable/edit_text_box"
+        android:paddingLeft="5dp"
+        android:textColorHint="#E0E0E0"
+        android:layout_weight="1"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="3dp"
+        android:weightSum="2">
+
+        <Button
+            android:id="@+id/btnOk"
+            android:text="OK"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#800000"
+            android:textColor="#FFFFFF"/>
+        <Button
+            android:id="@+id/btnCancelcmt"
+            android:text="Cancle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#E8E8E8"
+            android:textColor="#800000"/>
+
+    </LinearLayout>
+
+</LinearLayout>
