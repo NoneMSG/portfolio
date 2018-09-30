@@ -1,0 +1,535 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project description,Project url,Priority,Resolution,Assignee,Reporter,Creator,Created,Updated,Last Viewed,Resolved,Due Date,Votes,Description,Environment,Watchers,Log Work,Log Work,Original Estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Custom field (Counter Measure),Custom field (Difficulty),Custom field (Fix Version/s),Custom field (Found Date),Custom field (Integrated CW),Custom field (Integrated Version),Custom field (Occurrence),Custom field (Origin of Task),Custom field (Original Estimate),Custom field (Planned End),Custom field (Planned Start),Custom field (Reject reason),Custom field (Risk),Custom field (Root cause),Custom field (SW Version),Custom field (SW_Version_Fix_Planned),Custom field (SW_Version_Fixed),Custom field (Story Points),Custom field (Test Delay Reason),Custom field (Test Result),Custom field (Velocity)
+[ToDo] 임진숙 10/13(금),FG-133,11121,ToDo,Verifying,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,14/Oct/17 6:31 PM,14/Oct/17 6:32 PM,16/Oct/17 1:08 PM,,,0,"오류 수정 
+
+네트워크 연결 여부 통신 작업",,jslim,;14/Oct/17 6:31 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 10/12(목),FG-132,11120,ToDo,Verifying,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,14/Oct/17 6:30 PM,14/Oct/17 6:31 PM,19/Oct/17 3:37 PM,,,0,"안드로이드 테스트
+
+버스 수정 ",,jslim,;14/Oct/17 6:30 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 10/11(수),FG-125,11113,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,11/Oct/17 8:53 PM,13/Oct/17 8:16 PM,13/Oct/17 8:16 PM,,,0,"안드로이드 테스트
+
+버그 수정
+
+일부기능 수정",,jslim,;11/Oct/17 8:54 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 10/10(화),FG-124,11112,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,11/Oct/17 8:53 PM,13/Oct/17 8:16 PM,13/Oct/17 8:16 PM,,,0,"디자인 완성
+
+안드로이드 테스트",,jslim,;11/Oct/17 8:53 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 09/29(금),FG-121,11109,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,29/Sep/17 6:59 PM,13/Oct/17 8:16 PM,13/Oct/17 8:16 PM,,,0,"전반적인 오류 수정 작업
+
+비밀번호 확인 다이얼로그 수정
+
+디자인 개선
+
+스플래쉬+로그인 상태바 삭제
+
+ ",,jslim,;29/Sep/17 6:59 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 09/28(목),FG-119,11107,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,jslim,jslim,jslim,28/Sep/17 8:35 PM,13/Oct/17 8:16 PM,13/Oct/17 8:16 PM,,,0,"각 작성 수정 상세보기 페이지 아이콘 설정
+
+글간 조정
+
+레이아웃 패딩 조절 
+
+검색창 스피너,키보드 비활성화 수정
+
+전체적인 UI디자인 초안 완성",,jslim,;28/Sep/17 8:36 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 09/27(수),FG-117,11105,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,27/Sep/17 6:36 PM,13/Oct/17 8:16 PM,13/Oct/17 8:16 PM,,,0,"홈버튼 수정
+
+메인 액티비티 프래그먼트별 아이콘,백그라운드 설정
+
+플로팅 액션 버튼 아이콘 설정
+
+리스트 수정",,jslim,;27/Sep/17 6:36 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 09/26(화),FG-116,11104,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,27/Sep/17 6:34 PM,13/Oct/17 8:16 PM,13/Oct/17 8:16 PM,,,0,"액션바 클릭 프래그먼트 항목 증가 오류 수정
+
+액션바 아이콘 추가(홈버튼)
+
+일일보고서 수정시 날짜선택 오류 수정
+
+리스트 스피너 오류 수정
+
+메인액티비티 플로팅 액션 버튼 완성",,jslim,;27/Sep/17 6:34 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 09/25(월),FG-112,11100,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,jslim,jslim,jslim,25/Sep/17 6:57 PM,26/Sep/17 9:17 PM,26/Sep/17 9:17 PM,,,0,"일일보고서 쓰기/수정 첨부파일 제거
+
+상담일지 첨부 버튼 수정
+
+목표액 매출액 오류 수정
+
+일일보고서 상세보기 내 첨부파일 제어
+
+비밀번호 변경 오류 수정",,jslim,;25/Sep/17 6:57 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 09/21(목),FG-105,11092,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,21/Sep/17 8:06 PM,26/Sep/17 9:17 PM,26/Sep/17 9:17 PM,,,0,"기기 고유번호에따른 버튼 마다 리스너와 통신
+
+각 페이지 에서 통신할 때 마다 고유번호 확인
+
+통신 오류 해결
+
+ ",,jslim,;21/Sep/17 8:06 PM;jslim;14400,,14400,0,14400,100%,14400,0,14400,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 09/20(수),FG-103,11090,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,20/Sep/17 7:02 PM,21/Sep/17 4:11 PM,19/Oct/17 3:37 PM,,,0,"상담일지 고객리스트 요청 api수정
+
+상담일지 상세보기 변수 변경
+
+rate필요 페이지마다 직접 계산 수정
+
+일일계획 json array객체 변수명 변경
+
+스플래쉬 생성
+
+타이틀바 변경",,jslim,;20/Sep/17 7:02 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 09/19(화),FG-101,11088,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,jslim,jslim,jslim,19/Sep/17 6:49 PM,21/Sep/17 4:11 PM,19/Oct/17 3:37 PM,,,0,"그래프,첨부파일 코드
+
+캘린더 리스트 오류 확인 팀장리스트 완성
+
+editText 유효성 검사
+
+상세보기 보고날짜 등록날짜 오류 잡기
+
+상세보기 html태그 제거",,jslim,;19/Sep/17 6:50 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 09/18(월),FG-97,11084,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,18/Sep/17 7:55 PM,19/Sep/17 9:41 AM,19/Oct/17 3:37 PM,,,0,"일일보고서 작성,수정 창 수정
+
+주간계획서와 무관하게 작성 가능 
+
+주간계획서 없는 경우 일일보고서 목표액은 직접 쓸 수 있음
+
+일일보고서 상세보기시 달성률 안넘어옴 클라이언트측에서 직접 계산
+
+캘린더 리스트 팀장&팀원 완성",,jslim,;18/Sep/17 7:55 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 09/15(금),FG-93,11080,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,jslim,jslim,jslim,15/Sep/17 10:13 AM,19/Sep/17 9:41 AM,19/Oct/17 3:37 PM,,,0,"작성부분 UI디자인
+
+캘린더-리스트 (팀원)",,jslim,;15/Sep/17 7:00 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 09/14(목),FG-92,11079,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,jslim,jslim,jslim,15/Sep/17 10:12 AM,15/Sep/17 2:09 PM,19/Oct/17 3:37 PM,,,0,"메인 홈-리스트 완성 및 오류 수정
+
+리스트 일일보고서 상세보기시 코멘트 첨부파일 상담일지 세부리스트 오류 수정
+
+디폴트-주간계획서로 지정
+
+당겨서 새로고침
+
+UI디자인 test",,jslim,;15/Sep/17 10:13 AM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 09/13(수),FG-89,11076,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,13/Sep/17 7:29 PM,15/Sep/17 2:09 PM,19/Oct/17 3:37 PM,,,0,"홈설정 라디오버튼 수정
+
+로그아웃 액션바 이용 토큰,홈포지션 프리퍼런스에 저장 확인
+
+리스트 중복 오류 수정
+
+일일보고서 상세보기시 상담일지 세부 리스트 버튼 오류 수정
+
+캘린더,그래프 통합",,jslim,;13/Sep/17 7:29 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 09/12(화),FG-86,11073,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,12/Sep/17 7:16 PM,15/Sep/17 2:09 PM,19/Oct/17 3:37 PM,,,0,"메인화면 개인 홈설정에따른 기능
+
+홈설정 변경
+
+키워드 검색 리스트액티비티 따로 뗌
+
+계획서 및 보고서별 키워드 검색",,jslim,;12/Sep/17 7:17 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 09/11(월),FG-82,11069,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,11/Sep/17 7:03 PM,12/Sep/17 10:36 AM,19/Oct/17 3:37 PM,,,0,"메인액티비티 리스트
+
+권한별 유저검색
+
+팀장 : 팀원 리스트 받아와 팀원것 확인 가능
+
+팀원경우 자기것만 확인 가능
+
+일일보고서 팀장 승인 완료
+
+승인,반려기능 버튼 활성화및 비활성화 등",,jslim,;11/Sep/17 7:04 PM;jslim;14400,,14400,0,14400,100%,14400,0,14400,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 09/09(토),FG-80,11063,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,09/Sep/17 5:44 PM,12/Sep/17 10:36 AM,19/Oct/17 3:37 PM,,,0,"일일보고서 첨부파일 및 상담일지 수정 내용수정 등 
+
+상세보기시 권한에따른 뷰 설정
+
+팀장 승인 여부 반영
+
+ ",,jslim,;09/Sep/17 5:45 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 09/08(금),FG-76,11059,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,08/Sep/17 6:55 PM,09/Sep/17 4:26 PM,19/Oct/17 3:37 PM,,,0,"일일보고서 수정
+
+날짜 변경 가능
+
+상담일지 및 첨부파일 기존 목록 불러오기
+
+기존 목록+새로 추가 기능 ",,jslim,;08/Sep/17 6:55 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 09/07(목),FG-75,11058,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,08/Sep/17 6:54 PM,09/Sep/17 4:26 PM,19/Oct/17 3:37 PM,,,0,"일일보고서 상세보기시 파일 저장 및 사진 불러오기
+
+폴더 생성후 사진유무 판단",,jslim,;08/Sep/17 6:54 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 09/06(수),FG-74,11057,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,08/Sep/17 6:53 PM,09/Sep/17 4:26 PM,19/Oct/17 3:37 PM,,,0,첨부파일 읽어오기,,jslim,;08/Sep/17 6:53 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 09/05(화),FG-68,11050,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,05/Sep/17 7:51 PM,07/Sep/17 10:59 AM,19/Oct/17 3:37 PM,,,0,"주간계획서 수정작업 날짜 오류 해결(지난 날짜, 이미 존재하는 주간계획서 등)
+
+일일보고서 UI수정
+
+일일보고서 미승인의 경우 날짜 지나도 수정가능
+
+일일보고서 작성화면 달력 추가 해당날짜 클릭시 승인된 보고서 유무 파악
+
+파일업로드 5개 제한
+
+상세보기 상담일지 개수 제한 없음",,jslim,;05/Sep/17 7:51 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 09/04(월),FG-64,11046,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,jslim,jslim,jslim,04/Sep/17 8:01 PM,04/Sep/17 9:17 PM,19/Oct/17 3:37 PM,,,0,"주간계획서 –
+
+작성 오류수정(날짜 입력 오류, 계획서 존재시 필터링 )
+
+           상세보기 날짜 오류수정
+
+           수정 UI, 다시만듦 작성창과 동일 (날짜변경 가능)",,jslim,;04/Sep/17 8:01 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 09/02(토),FG-61,11042,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,jslim,jslim,jslim,02/Sep/17 9:22 AM,04/Sep/17 11:43 AM,19/Oct/17 3:37 PM,,,0,"리스트-삭제 : 각 보고서와 계획서 상세보기에서 수정 및 삭제 기능
+
+완료되면 홈-리스트 갱신하여 보여주기",,jslim,"리스트-삭제 : 각 보고서와 계획서 상세보기에서 수정 및 삭제 기능
+
+완료되면 홈-리스트 갱신하여 보여주기
+
+주간계획-삭제
+
+상담일지-일일보고서와 연결되지 않은 것만 삭제
+
+           보고서 바로가기 경우 연결되지 않은 것 필터링
+
+일일보고서-연결된 상담일지 없을경우 (리스트 공백)만 삭제가능
+
+*if*(jsonArraycst.isNull(0))
+     *linkConsultation*=*false*;
+
+ 
+
+           연결된 상담일지로 이동할 경우 이전 보고서는 종료
+
+           코멘트 – 본인 작성글 외에 삭제 불가 필터
+
+ 
+
+각 페이지 수정작업 들어가는 중;02/Sep/17 6:01 PM;jslim;28800",,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 09/01(금),FG-59,11040,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,jslim,jslim,jslim,01/Sep/17 10:22 AM,01/Sep/17 9:47 PM,19/Oct/17 3:37 PM,,,0,"일일보고서 – 코멘트
+
+입력:다이얼로그창에서 입력후 일일보고서 갱신하여 보여줌
+
+삭제:삭제후 일일보고서 갱신(수정 일단 보류)
+
+리스트-삭제",,jslim,"4 hours 
+
+일일보고서 – 코멘트
+
+입력:다이얼로그창에서 입력후 일일보고서 갱신하여 보여줌
+
+액티비티 전환후 이전액티비티 종료 :
+
+이전액티비티에
+
+*public static* Activity _rdaActivity_; //선언
+
+rdaActivity=ReadDailyActivity.*this*; //oncreate
+
+ 
+
+호출한 액티비티(전환 후)
+
+ReadDailyActivity rdaActivity = (ReadDailyActivity)ReadDailyActivity._rdaActivity_;
+rdaActivity.finish();
+
+ 
+
+삭제:삭제후 일일보고서 갱신(수정 일단 보류)
+
+어댑터에서 버튼 클릭시 서버와 통신 후 리스트에서 삭제
+
+*중간 index 삭제가능하나 맨 마지막 아이템이 삭제되듯 보임;01/Sep/17 4:27 PM;jslim;14400","일일보고서 상세보기 : 연결된 상담일지 리스트 가져오기
+
+서로 연결된 상담일지와 일일보고서는 링크가 걸려있음
+
+코멘트 추가후 액티비티 갱신 방법 수정
+
+인텐트이용 이전액티비티 종료 ->onResume()이용, 수정;01/Sep/17 9:33 PM;jslim;14400",28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 08/31(목),FG-53,11034,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,31/Aug/17 8:47 PM,01/Sep/17 9:47 PM,19/Oct/17 3:37 PM,,,0,"홈리스트 스크롤 끝에 닿을 경우 또 리스트 요청으로 받아와 갱신
+
+액티비티를 다이얼로그처럼 띄움
+
+테마-스타일 지정
+
+코멘트 추가기능 : 다이얼 로그처럼 띄움
+
+코멘트 추가 승인경우 서버에 코멘트 전송",,jslim,;31/Aug/17 8:47 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 08/30(수),FG-52,11033,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,30/Aug/17 10:34 AM,01/Sep/17 9:47 PM,19/Oct/17 3:37 PM,,,0,"list AJAX기능 구현
+
+계획서-보고서간 연결 (인텐트 및 파라미터 정리 )",,jslim,"홈 - 리스트 갱신
+
+스크롤리스너 이용하여 조건을 통해 갱신할 때 마지막 index와 같이 토큰을 넘겨 통신
+
+commnet추가 다이얼로그 생성
+
+계획서 및 일지에서 cancel버튼 누를 때 다이얼로그 오류부분 해결
+
+인텐트를 이용하여 테마를 다이얼로그로 적용
+
+작성중 취소를 승인할 경우 홈화면으로 이동;30/Aug/17 6:46 PM;jslim;28800",,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 08/29(화),FG-49,11029,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,29/Aug/17 10:11 AM,30/Aug/17 10:09 AM,19/Oct/17 3:37 PM,,,0,주간계획서 일일보고서 상담일지 output,,jslim,"-list output 완성
+
+-주간계획서,일일계획서
+
+일일계획서 클릭시 승인된 보고서가 있을경우 보고서 상세보기로 이동
+
+주간계획서 ,일일계획서 데이터 받아오기
+
+-스피너 클릭으로 연결된 리스트에서 output전부 가능
+
+각 보고서 및 계획서별 정보 받아오기 가능
+
+(계획서와 보고서가 서로 연결될 경우 받아오는 인텐트 파라미터는 리스트에서 들어올 경우의 인텐트 파라미터와 다름);29/Aug/17 7:02 PM;jslim;28800",,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 08/28(월),FG-47,11022,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,jslim,jslim,jslim,28/Aug/17 10:34 AM,29/Aug/17 10:15 AM,19/Oct/17 3:37 PM,,,0,"-list output 완성
+
+-상담일지 가져오기 (일일보고서 연결여부 포함)",,jslim,"-list output 완성
+
+-상담일지 가져오기 (일일보고서 연결여부 포함)
+
+-일일보고서 comment;28/Aug/17 6:50 PM;jslim;28800",,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 08/26(토),FG-44,11019,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,26/Aug/17 5:39 PM,28/Aug/17 9:14 AM,19/Oct/17 3:37 PM,,,0,"스피너구현으로 position값을 통해 주간,일간,상담일지 목록 불러옴
+
+목록형태
+
+주간 : 제목 날짜
+
+일간 : 제목 날짜 승인여부
+
+상담일지 : 제목 날짜 (+일일보고서 연결 여부, 연결된 일일보고서 인덱스)",,jslim,코드리뷰;26/Aug/17 5:40 PM;jslim;14400,스피너 - 리스트구현;26/Aug/17 5:40 PM;jslim;14400,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 08/25(금),FG-40,11015,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,25/Aug/17 7:32 PM,26/Aug/17 9:54 AM,19/Oct/17 3:37 PM,,,0,"-일일보고서
+
+앨범선택
+
+앨범호출후 절대경로 지정
+
+오류는 왜 잡히는지 아직 해결 안됨
+
+-홈 : 리스트 띄우기
+
+기본 UI, 커스텀 리스트 어뎁터
+
+스피너 선택(주간계획,일일보고,상담일지)에 따라 리스트에 각각 뿌려주기
+
+서버로부터 받는 것은 Home_List의 객체로서 만듦",,jslim,;25/Aug/17 7:32 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo]임진숙 08/24(목),FG-37,11004,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,24/Aug/17 10:02 AM,25/Aug/17 7:19 PM,19/Oct/17 3:37 PM,,,0," 
+
+상담일지 작성- 2차거래처 정보 받기
+
+           스피너구현
+
+주간계획 작성 – 날짜 정보 받아와 각 요일벼로 뿌려주기
+
+일일보고서 – 상담일지 선택시 배열로 서버에 전송 인덱스값",,jslim,;24/Aug/17 7:10 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo]임진숙 08/23(수),FG-35,11002,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,jslim,jslim,jslim,23/Aug/17 8:07 PM,24/Aug/17 9:55 AM,19/Oct/17 3:37 PM,,,0,"-로그인 수정
+
+토큰값 리턴 유무를 통해 실패/성공을 나눴던 로그인처리 부분에 LOCK을 반영
+
+로그인 횟수(실패한 경우)를 카운트 하여 5번이 될 경우 관리자가 바꾸어 주어야함 다시 로그인 하여도 락걸린상태로 로그인할 수 없음
+
+ 
+
+-일일보고서
+
+상담일지 리스트 부분 ArrayList이용하여 최대 5개로 제한
+
+ 
+
+일일보고서 input / 첨부파일 / 프로그래스 바 /상담일지 리스트 클릭시 다시 no 넘김",,jslim,;23/Aug/17 8:08 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDO]임진숙 08/22(화),FG-32,10999,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,jslim,jslim,jslim,22/Aug/17 7:02 PM,22/Aug/17 8:59 PM,19/Oct/17 3:37 PM,,,0,"첨부파일 스피너 클릭-상담일지
+
+리스트완성 :
+
+리스트뷰 액티비티를 새로만들어 어댑터클래스를 이용하여 개별적 리스트 액티비티 생성
+
+          일일보고서 액티비티에서 상담일지목록 클릭시 서버로부터 상담일지 목록 정보를 받아옴
+
+받아온 정보를 리스트로 인텐트발생(리스트 넘김)
+
+           생성된 리스트액티비티에서 리스트 엑스트라 받아와 화면에 뿌림
+
+ 
+
+*커스텀 리스트뷰를 사용하여 멀티초이스 하는부분에서 막힘
+
+*listAdapter* = *new* ListDataAdapter(getBaseContext(),*items*);
+
+하나씩 클릭했을경우 클릭했다는 표시와 해당 아이템의 인덱스 추출이 가능하나
+
+멀티초이스가 불가능
+
+ 
+
+커스텀리스트뷰가 아니라 ArrayAdapter
+
+*listAdapter* = *new* ArrayAdapter(*this*,android.R.layout.*_simple_list_item_multiple_choice_*,*items*);
+
+사용하면 멀티초이스가 되고 해당목록의 인덱스 추출가능 하지만 UI 너무 별로",,jslim,;22/Aug/17 7:02 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 08/21(월),FG-28,10995,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,21/Aug/17 10:08 AM,22/Aug/17 8:51 PM,19/Oct/17 3:37 PM,,,0,"목표액 달성, 주행거리 계산 완료
+
+editText의 입력을 받아 실시간으로 계산 : TextWatcher 인터페이스 이용
+
+달성율은 소수점아래 2번째까지 나타내고 주행거리는 첫번째까지
+
+첨부파일의 경우 앨범/상담일지 스피너 구현
+
+*스피너경우 디폴트값이 잡히는데 아무것도 안잡히게는 못하는지 ?
+
+스피너의 앨범선택시 디바이스 갤러리 호출
+
+사진선택부터 어떻게 저장할지 생각해야함
+
+ ",,jslim,;21/Aug/17 7:18 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 08/18(금),FG-26,10948,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,18/Aug/17 6:34 PM,21/Aug/17 9:06 PM,19/Oct/17 3:37 PM,,,0,"일일보고서 UI 기본 완성
+
+웹과 색상규정
+
+주간계획서 월~금 날짜기능 완성
+
+주간보고서 작성날짜 기준으로 다음주의 월~금의 날짜를 구해옴
+
+주간보고서는 무조건 해당주 전에 완성해야함
+
+일일보고서 작성시 미리 작성해둔 주간보고서안에 해당날짜 검색 -> 당일 목표매출액 가져옴",,jslim,;18/Aug/17 6:34 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 08/17(목),FG-23,10945,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,17/Aug/17 6:36 PM,17/Aug/17 9:25 PM,19/Oct/17 3:37 PM,,,0,"커스텀 다이얼로그 버튼이벤트가 안먹혔던 부분 해결     
+
+상담일지 input완료
+
+Output은 리스트에서 연동되므로 보류
+
+주간일지 input작성
+
+주간계획서안의 일일계획을 객체로 생성
+
+GSON을 이용해 일일계획 객체를 JSON으로 바꾸어 전송
+
+매출액과 목표액달성비율을 포함한 10개의 파람을 넘기는데 두 파람은 차후 수정
+
+일일계획의 날짜 부분은 캘린더부분 완성후 캘린더 라이브러리를 사용하여 수정할 계획",,jslim,;17/Aug/17 6:36 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 08/16(수),FG-19,10940,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,16/Aug/17 10:10 AM,16/Aug/17 9:52 PM,19/Oct/17 3:37 PM,,,0,"상담일지 input
+
+유저 정보 받아오기
+
+대리점(고객)들을 ArrayList로 담아와 스피너 동적구현
+
+제목과 상담내역 전송
+
+ 
+
+*에뮬레이터 키보드가 한글이 안먹힘",,jslim,;16/Aug/17 6:13 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 08/11(금),FG-17,10923,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,jslim,jslim,jslim,11/Aug/17 6:36 PM,14/Aug/17 6:45 PM,19/Oct/17 3:37 PM,,,0,"# 프로필 설정
+
+서버로부터 유저의 이름 이메일 소속 소속팀장 등의 정보를 받아와
+
+Json 파싱하고 뿌려줌
+ # 비밀번호 변경
+
+비밀번호 변경 에디트란을 포커싱하지않도록 false로 해놓았음
+
+현재비밀번호 확인후 포커싱을 살리려는데 안살려짐
+
+무슨수를 써도 애매해짐 완벽히 살릴수가 없음
+
+np.setFocusable(*true*);
+ *npc*.setFocusable(*true*);
+
+소스들이 먹히지 않는다
+ # 다이얼로그
+
+다이얼로그 중복으로 뜨던 것 해결
+
+onTouch이벤트로 호출했었는데 터치를 멋대로 두번씩먹었다 (누르고,떼기)
+
+onClick이벤트로 변경 = 해결",,jslim,;11/Aug/17 6:38 PM;jslim;28800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 08/10(목),FG-14,10913,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,10/Aug/17 7:35 PM,14/Aug/17 6:44 PM,19/Oct/17 3:37 PM,,,0,"# 프로필에서 비밀번호 변경시 서버와 통신
+
+Incorrect : 틀릴경우
+
+False : 토큰 만료경우
+
+Correct : 제대로
+
+새로바꿀 비밀번호를 입력하려면 기존 비밀번호를 확인
+
+확인까지 되었으나 확인후 새로운 비밀번호를 입력받는 과정에서 꼬임
+
+다이얼로그를 띄웠는데 show();에서 에러가 남;;;;;;;;
+ # Post,put으로 비밀번호 변경 완료
+
+현재 비밀번호를 post로 보내어 확인 후
+
+새로운 비밀번호 입력 새 비밀번호,비밀번호 확인이 동일경우
+
+put전송 비밀번호 변경
+ # Text에 회원정보가져오기
+
+회원 이름, 이메일, 소속 부서, 팀장 등 post요청으로 받아옴
+
+*JSON형식으로 받아오는데 받아오는순간 비밀번호변경 EditText가 사라짐
+
+*
+
+-내일
+
+1)반환되는 정보를 정리해서 출력
+
+2)다이얼로그 중복 해결
+
+3)텍스트,에디트뷰 충돌 해결",,jslim,,,18000,18000,,0%,18000,18000,,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 08/09(수),FG-12,10910,ToDo,New,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,09/Aug/17 6:33 PM,09/Aug/17 6:33 PM,19/Oct/17 3:37 PM,,,0,"*1.토큰 저장*
+
+비밀번호를 암호화해 넘겨주고 인증받을 경우 토큰값이 넘어오도록 하기로 함
+
+근데 토큰값을 어떻게 저장해야할지 모르겠음
+
+InputStreamReader , BufferedReader로 읽어오는데에도 문제가 생김
+
+스트림 리더로 읽으려 했는데 안읽혀 짐 – 서버로부터 리턴받는 메시지를 안드로이드에서 스트링으로 그냥 주워먹음
+
+토큰값에 메시지를 저장으로 해결
+
+ 
+
+*2.비밀번호 불일치시 false값을 받아와 토큰값을 받을경우와 분리*
+
+비밀번호가 틀리면 토큰생성을 아예하지않고 다시 로그인화면으로
+
+토큰값과 동일하게 String타입으로 받아와 “false”와 비교하는 과정에서 에러가 많았음
+
+내눈엔 똑같아 보이나 코드를 *message*= EntityUtils._toString_(resEntity);
+
+로 바꾸고 message로만 갖고 하니 해결
+
+왜저러는지 모르겠다
+
+ 
+
+*3.서버에 요청할때마다 토큰값을 들고와서 비교*
+
+만료된 토큰일 경우 false ->다시 로그인 화면
+
+유효한 토큰의 경우 true ->이경우만 이제 get으로 요청하든지 하는걸로",,jslim,,,28800,28800,,0%,28800,28800,,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 임진숙 08/08(화),FG-9,10905,ToDo,New,FG,First Group,business,sgyang,,,Top,,sgyang,jslim,jslim,08/Aug/17 7:14 PM,01/Sep/17 4:27 PM,19/Oct/17 3:37 PM,,,0,"#  ** *노드(서버)측과 통신 확인*
+
+ 로그인시 아이디와 패스워드를 받아 JSON형식으로 넘겨주고 서버에서 재전송하여 받는다
+
+ HttpClient클래스 사용 httpUrlConnection 보다 많이 사용되는 듯 함 (무슨차인지는 모르겠다)
+
+ 통신은 무조건 AsyncTask 이용
+
+ JSONObject로 직접 만들어서 보내려했으나 서버가 읽지를 못함
+
+List<BasicNameValuePair>로 해결
+
+ 
+
+*2. SHA256*
+
+비밀번호를 암호화하여 보냄
+
+서버에서 아이디와 암호화된 비밀번호 확인후 다시 토큰을 발행해 준다고 함
+
+토큰을 저장할 소스가 필요
+
+SharedPreferences로 해결할 것 같았으나 Editor에서 문제발생
+
+editor = preferences.edit(); 쓰면 된다는데 인터페이스가 제대로 호출이 안되나
+
+ 
+
+내일은 받아오는 토큰을 저장하는걸 완성시켜야 될듯
+
+ 
+
+ 
+
+ 
+
+ ",,jslim,,,28800,28800,0,0%,28800,28800,0,,,,,,,,,,,,,,,,,,,,,,

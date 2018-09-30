@@ -1,0 +1,954 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project description,Project url,Priority,Resolution,Assignee,Reporter,Creator,Created,Updated,Last Viewed,Resolved,Due Date,Votes,Description,Environment,Watchers,Log Work,Log Work,Log Work,Log Work,Log Work,Original Estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Attachment,Attachment,Attachment,Custom field (Counter Measure),Custom field (Difficulty),Custom field (Fix Version/s),Custom field (Found Date),Custom field (Integrated CW),Custom field (Integrated Version),Custom field (Occurrence),Custom field (Origin of Task),Custom field (Original Estimate),Custom field (Planned End),Custom field (Planned Start),Custom field (Reject reason),Custom field (Risk),Custom field (Root cause),Custom field (SW Version),Custom field (SW_Version_Fix_Planned),Custom field (SW_Version_Fixed),Custom field (Story Points),Custom field (Test Delay Reason),Custom field (Test Result),Custom field (Velocity),Comment,Comment,Comment,Comment
+[ToDo] 문성훈 10/13(금),FG-127,11115,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,13/Oct/17 9:52 AM,13/Oct/17 8:15 PM,13/Oct/17 8:15 PM,,,0,"발표자료 영상 녹화
+
+발표자료 완성
+
+버그테스트
+
+ ",,shmoon,"발표자료 수정
+
+영상 촬영
+
+aws 노드 세팅 테스트 성공
+
+빌드서버 노드 세팅 최종 완료;13/Oct/17 7:52 PM;shmoon;28800",,,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,,,,,"13/Oct/17 7:55 PM;shmoon;[~shmoon] logged work - 13/Oct/17 10:00 PM
+ * Time Spent:1 day 발표자료 수정
+
+영상 촬영
+
+aws 노드 세팅 테스트 성공
+
+빌드서버 노드 세팅 최종 완료",,,
+[ToDo] 문성훈 10/12(목),FG-126,11114,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,12/Oct/17 10:14 AM,13/Oct/17 8:15 PM,13/Oct/17 8:17 PM,,,0,"발표자료 보충
+
+안드로이드 노드 디버그
+
+웹버그 테스트 어드민 페이지",,shmoon,"안드로이드 사이드 버그 수정
+
+웹사이드 버그 테스트 후 결과 보고 (어드민 페이지 확인 완료)
+
+발표자료 작성작업;12/Oct/17 7:50 PM;shmoon;28800",,,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,,,,,"12/Oct/17 7:51 PM;shmoon;[~shmoon] logged work - 12/Oct/17 10:00 AM - edited
+ * Time Spent:1 day 안드로이드 사이드 버그 수정
+
+웹사이드 버그 테스트 후 결과 보고 (어드민 페이지 확인 완료)
+
+발표자료 작성작업",,,
+[ToDo] 문성훈 10/11(수),FG-123,11111,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,11/Oct/17 10:51 AM,13/Oct/17 8:15 PM,13/Oct/17 8:17 PM,,,0,"안드로이드 버그 해결하기
+
+자식 리스트뷰 스크롤링
+
+첨부파일 이미지 비트맵 으로 불러올때 못불러오는것 해결하기",,shmoon,"일일보고서 자식 리스트뷰 스크롤문제 해결
+
+비트맵 이미지 불러오기 스캐일 변경으로 문제 해결
+
+ ;11/Oct/17 10:52 AM;shmoon;3600",,,,,28800,25200,3600,12%,28800,25200,3600,,,,,,,,,,,,,,,,,,,,,,,,,,"13/Oct/17 7:55 PM;shmoon;[~shmoon] logged work - 11/Oct/17 10:00 AM
+ * Time Spent:1 hour 일일보고서 자식 리스트뷰 스크롤문제 해결
+
+비트맵 이미지 불러오기 스캐일 변경으로 문제 해결
+
+ ",,,
+[ToDo] 문성훈 10/10(화),FG-122,11110,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,10/Oct/17 10:12 AM,13/Oct/17 8:15 PM,13/Oct/17 8:15 PM,,,0,"발표자료 준비
+
+팜플렛 자료 준비
+
+발표 스크립트 작성",,shmoon,"발표자료 기본틀 작성완료
+
+참고 스크립트 작성완료
+
+팜플렛 작성완료(보충필요 할듯);10/Oct/17 6:06 PM;shmoon;7200",,,,,28800,21600,7200,25%,28800,21600,7200,,,,,,,,,,,,,,,,,,,,,,,,,,"13/Oct/17 7:55 PM;shmoon;[~shmoon] logged work - 10/Oct/17 6:06 PM
+ * Time Spent:2 hours 발표자료 기본틀 작성완료
+
+참고 스크립트 작성완료
+
+팜플렛 작성완료(보충필요 할듯)",,,
+[ToDo] 문성훈 09/29(금),FG-120,11108,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,29/Sep/17 11:31 AM,13/Oct/17 8:15 PM,13/Oct/17 8:15 PM,,,0,"안드로이드 디자인 및 UI 작업
+
+노드 버그 발견시 버그 수정",,shmoon,"안드로이드 리스트 유저별 게시글 리스트에서 새로고침시 유저별로 새로고침 되도록
+
+팀원선택 스피너일 때 전체게시글 가져오도록 수정;29/Sep/17 2:45 PM;shmoon;7200","노드 서버 승인요청 버그 수정
+
+계획서 없이 승인요청, 승인 가능 목표매출액 업데이트 데이터 결과 상관 없이 알림 메시지 발행 하도록 변경
+
+반려시에도 메시지 전송 하도록 수정 개발;29/Sep/17 6:53 PM;shmoon;21600",,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,,,,,"29/Sep/17 6:53 PM;shmoon;[~shmoon] logged work - 29/Sep/17 1:00 PM
+ * Time Spent:2 hours 안드로이드 리스트 유저별 게시글 리스트에서 새로고침시 유저별로 새로고침 되도록
+
+팀원선택 스피너일 때 전체게시글 가져오도록 수정
+Permalink [Edit|http://192.168.1.7:8181/secure/UpdateWorklog!default.jspa?id=11108&worklogId=10401] [Delete|http://192.168.1.7:8181/secure/DeleteWorklog!default.jspa?id=11108&worklogId=10401]
+[~shmoon] logged work - 29/Sep/17 1:00 PM
+ * Time Spent:6 hours 노드 서버 승인요청 버그 수정
+
+계획서 없이 승인요청, 승인 가능 목표매출액 업데이트 데이터 결과 상관 없이 알림 메시지 발행 하도록 변경
+
+반려시에도 메시지 전송 하도록 수정 개발",,,
+[ToDo] 문성훈 09/28(목),FG-118,11106,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,28/Sep/17 12:25 PM,13/Oct/17 8:15 PM,13/Oct/17 8:15 PM,,,0,"안드로이드 권한 설정 팝업형식으로 허용하기
+
+플로팅버튼 이벤트 처리 보강",,shmoon,"플로팅버튼 이벤트 처리 수정 개발
+
+앱허용설정 간단화;28/Sep/17 1:19 PM;shmoon;7200","안드로이드 보고서 작성 수정 부분 날짜 선택 안 하면 작성 수정 버튼 비활성화
+
+검색기능 UI 수정
+
+키보드 hide show 스피너 선택시 edit text 활성화 그리고 키보드 show 개발;28/Sep/17 5:26 PM;shmoon;7200",,,,28800,14400,14400,50%,28800,14400,14400,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 문성훈 09/27(수),FG-115,11103,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,27/Sep/17 10:06 AM,13/Oct/17 8:15 PM,13/Oct/17 8:15 PM,,,0,안드로이드 ui 개선 및 노드코드 수정,,shmoon,"안드로이드 게시글 리스트 버그 해결
+
+부모 프래그먼트에서 게시글 프래그먼트 선택시 갱신되도록 수정 개발;27/Sep/17 11:06 AM;shmoon;3600","fcm notication 전송시 일일보고서 인덱스번호도 함께 전송
+
+안드로이드에서 어플이 켜져있을 때 노티를 받으면 바로 게시글로 이동
+
+어플이 꺼져있을 때는 어플을 킴;27/Sep/17 3:59 PM;shmoon;7200","admin 모바일 로그인 못하도록 변경
+
+첨부파일 업로드시 디렉토리들 권한 777 설정
+
+ 게시글 리스팅 추가적으로 게시글 불러올때 리스트 초기화 되어 리스트뷰 포커스 이동 불가능 했던 버그 해결;27/Sep/17 7:07 PM;shmoon;18000",,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,,,,,"27/Sep/17 7:27 PM;shmoon;[~shmoon] logged work - 27/Sep/17 10:00 AM
+ * Time Spent:1 hour 안드로이드 게시글 리스트 버그 해결
+
+부모 프래그먼트에서 게시글 프래그먼트 선택시 갱신되도록 수정 개발
+Permalink [Edit|http://192.168.1.7:8181/secure/UpdateWorklog!default.jspa?id=11103&worklogId=10389] [Delete|http://192.168.1.7:8181/secure/DeleteWorklog!default.jspa?id=11103&worklogId=10389]
+[~shmoon] logged work - 27/Sep/17 1:00 PM
+ * Time Spent:2 hours fcm notication 전송시 일일보고서 인덱스번호도 함께 전송
+
+안드로이드에서 어플이 켜져있을 때 노티를 받으면 바로 게시글로 이동
+
+어플이 꺼져있을 때는 어플을 킴
+Permalink [Edit|http://192.168.1.7:8181/secure/UpdateWorklog!default.jspa?id=11103&worklogId=10396] [Delete|http://192.168.1.7:8181/secure/DeleteWorklog!default.jspa?id=11103&worklogId=10396]
+[~shmoon] logged work - 27/Sep/17 2:00 PM - edited
+ * Time Spent:5 hours admin 모바일 로그인 못하도록 변경
+
+첨부파일 업로드시 디렉토리들 권한 777 설정
+
+ 게시글 리스팅 추가적으로 게시글 불러올때 리스트 초기화 되어 리스트뷰 포커스 이동 불가능 했던 버그 해결",,,
+[ToDo] 문성훈 09/26(화),FG-113,11101,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,26/Sep/17 9:51 AM,26/Sep/17 9:17 PM,26/Sep/17 9:17 PM,,,0,"첨부파일 삭제시 노드 thumbnail 삭제
+
+안드로이드 테스트 node forever linux에 설치
+
+UI작업 노트코드 버그 수정
+
+ 
+
+ ",,shmoon,"첨부파일 섬네일까지 삭제 노드 서버에서 파일 다운시 원본파일 받을 수 있도록
+
+ ;26/Sep/17 1:49 PM;shmoon;7200","안드로이드 프래그먼트 이동시 게시글 리스트 초기화 되도록 수정
+
+노드 주간, 상담일지 사용자 이름 출력 되도록 수정
+
+ 
+
+ ;26/Sep/17 5:48 PM;shmoon;14400",,,,28800,7200,21600,75%,28800,7200,21600,,,,,,,,,,,,,,,,,,,,,,,,,,"26/Sep/17 7:00 PM;shmoon;[~shmoon] logged work - 26/Sep/17 10:00 AM
+ * Time Spent:2 hours 첨부파일 섬네일까지 삭제 노드 서버에서 파일 다운시 원본파일 받을 수 있도록
+
+ 
+Permalink [Edit|http://192.168.1.7:8181/secure/UpdateWorklog!default.jspa?id=11101&worklogId=10385] [Delete|http://192.168.1.7:8181/secure/DeleteWorklog!default.jspa?id=11101&worklogId=10385]
+[~shmoon] logged work - 26/Sep/17 1:00 PM
+ * Time Spent:4 hours 안드로이드 프래그먼트 이동시 게시글 리스트 초기화 되도록 수정
+
+노드 주간, 상담일지 사용자 이름 출력 되도록 수정",,,
+[ToDo] 문성훈 09/25(월),FG-111,11099,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,25/Sep/17 3:32 PM,26/Sep/17 9:17 PM,26/Sep/17 9:17 PM,,,0,"안드로이드 앱 권한설정 사용자가 할 수 있도록 띄워주기
+
+노드 리눅스환경에 맞게 수정
+
+파일 업로드 다운로드 경로 설정 섬네일 디렉토리 생성 후 생성하도록
+
+파일이 그림이면 섬네일로 다운 받을 수 있게 해준다(안드로이드)",,shmoon,"리눅스 리드 서버에 노드 테스트 성공
+
+첨부파일 실제 파일 삭제를 api삭제 요청시 파일도 같이 삭제하도록 디자인
+
+안드로이드 리스트 버그 50%해결 리스트 페이지 실행시 디폴트로 선택을 하도록 변경(다른 프래그먼트 다녀왔을 때 무조건 초기화로 변경 예정)
+
+첨부파일 업로드시 thumbnail 디렉토리 만들고 그 안에 thumbnail 파일 저장 시키도록 개발
+
+첨부파일 다운로드시 그림일때 mime 체크 thumbnail로 다운 받을 수 있게 개발;25/Sep/17 7:49 PM;shmoon;28800",,,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,,,,,"25/Sep/17 7:49 PM;shmoon;Time Spent:1 day 
+
+리눅스 리드 서버에 노드 테스트 성공
+
+첨부파일 실제 파일 삭제를 api삭제 요청시 파일도 같이 삭제하도록 디자인
+
+안드로이드 리스트 버그 50%해결 리스트 페이지 실행시 디폴트로 선택을 하도록 변경(다른 프래그먼트 다녀왔을 때 무조건 초기화로 변경 예정)
+
+첨부파일 업로드시 thumbnail 디렉토리 만들고 그 안에 thumbnail 파일 저장 시키도록 개발
+
+첨부파일 다운로드시 그림일때 mime 체크 thumbnail로 다운 받을 수 있게 개발",,,
+[ToDo] 문성훈 09/22(금),FG-106,11093,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,22/Sep/17 10:40 AM,26/Sep/17 9:17 PM,26/Sep/17 9:17 PM,,,0,"안드로이드 테스트 
+
+노드서버 테스트
+
+코드 정리
+
+ 
+
+안드로이드 디버그",,shmoon,안드로이드 게시글 없는 유저가 접속했을 때 생기는 버그(리스트 지우는 과정에서 데이터가 없을 때 지우는 문제 해결);22/Sep/17 8:09 PM;shmoon;14400,,,,,28800,14400,14400,50%,28800,14400,14400,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 문성훈 09/21(목),FG-104,11091,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,21/Sep/17 12:37 PM,26/Sep/17 9:17 PM,26/Sep/17 9:17 PM,,,0,"안드로이드 다른기기로 로그인시 이전에 로그인된 기기에는 CRUD작업전에 UID체크를 하여 프로그램을 쓸 수 없도록 만든다. 이전기기에서 로그아웃을 해도 DB에는 데이터 변화없음
+
+노드서버 uid체크 api 개발",,shmoon,"안드로이드 다른기기 로그인시 로그아웃 로직완성
+
+노드서버 api 개발완료;21/Sep/17 3:07 PM;shmoon;18000",,,,,28800,10800,18000,62%,28800,10800,18000,,,,,,,,,,,,,,,,,,,,,,,,,,"22/Sep/17 10:40 AM;shmoon;[~shmoon] logged work - 21/Sep/17 10:00 AM
+ * Time Spent:5 hours 안드로이드 다른기기 로그인시 로그아웃 로직완성
+
+노드서버 api 개발완료",,,
+[ToDo] 문성훈 09/20(수),FG-102,11089,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,20/Sep/17 10:56 AM,22/Sep/17 10:41 AM,19/Oct/17 3:37 PM,,,0,"DB 컬럼 변경내용 적용
+
+새로운 DB에 테스트",,shmoon,"고객리스트 1개로 통합
+
+상담일지 상세보기 쿼리 변경;20/Sep/17 7:01 PM;shmoon;28800",,,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,,,,,"22/Sep/17 10:41 AM;shmoon;[~shmoon] logged work - 20/Sep/17 10:00 AM
+ * Time Spent:1 day 고객리스트 1개로 통합
+
+상담일지 상세보기 쿼리 변경",,,
+[ToDo] 문성훈 09/19(화),FG-100,11087,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,19/Sep/17 10:11 AM,22/Sep/17 10:41 AM,19/Oct/17 3:37 PM,,,0,"안드로이드 작업
+
+노드 작업.
+
+리드서버 라이브러리 설치, aws에 라이브러리 설치 및 노드 테스트",,shmoon,"안드로이드 그래프 그래픽 출력 변경
+
+노드사이드 주간계획서에서 보고서 불러올 때 데이터 Read 변경
+
+ 원격서버에 sharp 라이브러리 설치 완료;19/Sep/17 6:24 PM;shmoon;25200",,,,,28800,3600,25200,87%,28800,3600,25200,,,,,,,,,,,,,,,,,,,,,,,,,,"22/Sep/17 10:41 AM;shmoon;[~shmoon] logged work - 19/Sep/17 10:00 AM - edited
+ * Time Spent:7 hours 안드로이드 그래프 그래픽 출력 변경
+
+노드사이드 주간계획서에서 보고서 불러올 때 데이터 Read 변경
+
+ 원격서버에 sharp 라이브러리 설치 완료",,,
+[ToDo] 문성훈 09/18(월),FG-96,11083,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,18/Sep/17 10:00 AM,22/Sep/17 10:41 AM,19/Oct/17 3:37 PM,,,0,"안드로이드 그래프 완성 + 그래프 UI
+
+주간계획서의 일일계획서 목표매출액 수정시 일일보고서들(같은날짜) 목표매출액 수정 조건 추가 필요",,shmoon,"안드로이드 그래프 완성(UI)
+
+팀장 팀전체 그래프값 개별 그래프값 확인가능
+
+유저 자신의 그래프값만 확인 가능
+
+일일보고서 매출목표액값 주간계획서에서 받아옴 미승인인데 미래의 데이터의 경우
+
+주간계획서의 매출목표액이 바뀌면 미래의 보고서들의 매출목표액도 바뀐다( 최초작성도 마찬가지)
+
+ ;18/Sep/17 6:09 PM;shmoon;25200",,,,,28800,3600,25200,87%,28800,3600,25200,,,,,,,,,,,,,,,,,,,,,,,,,,"22/Sep/17 10:41 AM;shmoon;[~shmoon] logged work - 18/Sep/17 10:00 AM
+ * Time Spent:7 hours 안드로이드 그래프 완성(UI)
+
+팀장 팀전체 그래프값 개별 그래프값 확인가능
+
+유저 자신의 그래프값만 확인 가능
+
+일일보고서 매출목표액값 주간계획서에서 받아옴 미승인인데 미래의 데이터의 경우
+
+주간계획서의 매출목표액이 바뀌면 미래의 보고서들의 매출목표액도 바뀐다( 최초작성도 마찬가지)
+
+ ",,,
+[ToDo] 문성훈 09/15(금),FG-91,11078,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,15/Sep/17 10:04 AM,22/Sep/17 10:41 AM,19/Oct/17 3:37 PM,,,0,"일일보고서 첨부파일 UI 작업
+
+첨부파일 올릴때 무엇을 올리는지 볼 수 있도록
+
+그래프 데이터 출력 쿼리 만들기",,shmoon,"안드로이드 업로드 기능 완성
+
+일일보고서 작성 된 후 상세보기 화면에서 가능 작성자만이 파일업로드 가능
+
+미승인된 보고서에만 업로드 가능
+
+한번에 최대 5개의 파일 업로드
+
+사용자가 탐색기에서 가져온 파일의 이름을 확인 할 수 있음
+
+ ;15/Sep/17 1:45 PM;shmoon;7200",안드로이드 그래프 작업;15/Sep/17 7:10 PM;shmoon;21600,,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,,,,,"22/Sep/17 10:41 AM;shmoon;[~shmoon] logged work - 15/Sep/17 10:00 AM
+ * Time Spent:2 hours 안드로이드 업로드 기능 완성
+
+일일보고서 작성 된 후 상세보기 화면에서 가능 작성자만이 파일업로드 가능
+
+미승인된 보고서에만 업로드 가능
+
+한번에 최대 5개의 파일 업로드
+
+사용자가 탐색기에서 가져온 파일의 이름을 확인 할 수 있음
+
+ ",,,
+[ToDo] 문성훈 09/14(목),FG-90,11077,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,14/Sep/17 9:57 AM,15/Sep/17 2:10 PM,19/Oct/17 3:37 PM,,,0,안드로이드와 노드 첨부파일 재개발,,shmoon,파일업로드 개발 완료 섬네일 경로;14/Sep/17 8:19 PM;shmoon;28800,,,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,,,,,"14/Sep/17 8:19 PM;shmoon;[~shmoon] logged work - 14/Sep/17 10:19 AM - edited
+ * Time Spent:1 day 파일업로드 개발 완료 섬네일 경로",,,
+[ToDo] 문성훈 09/13(수),FG-88,11075,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,13/Sep/17 9:55 AM,15/Sep/17 2:10 PM,19/Oct/17 3:37 PM,,,0,안드로이드 그래프 작업,,shmoon,"안드로이드 그래프 기본사항 적용
+
+**UI작업 필요
+
+주간계획서 5주에 해당하는 목표액, 매출액을 서버로 부터 받아와서 그래프로 표현
+
+ 
+
+ ;13/Sep/17 2:55 PM;shmoon;14400",,,,,28800,14400,14400,50%,28800,14400,14400,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 문성훈 09/12(화),FG-85,11072,ToDo,In Progress,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,12/Sep/17 2:31 PM,12/Sep/17 6:02 PM,19/Oct/17 3:37 PM,,,0,안드로이드 floating action button 개발,,shmoon,기본 floatingactionbutton 완료;12/Sep/17 2:32 PM;shmoon;7200,calendar 날짜 누르면 해당 날짜의 주차계획서 데이터 가져옴 ui작업 필요;12/Sep/17 6:02 PM;shmoon;14400,,,,28800,7200,21600,75%,28800,7200,21600,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 문성훈 09/11(월),FG-81,11064,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,11/Sep/17 10:05 AM,12/Sep/17 10:36 AM,19/Oct/17 3:37 PM,,,0,모바일과 검색기능 테스트,,shmoon,"그래프에 출력할 주간 매출총액 api 개발
+
+팀장: 자기 부서의 총매출액
+
+사원: 본인의 총 매출액
+
+주간계획서의 first_weekday 값으로 주차별로 데이터 값을 db로부터 가져옴;11/Sep/17 2:33 PM;shmoon;7200",안드로이드와 스피너 검색부분 버그 수정;11/Sep/17 7:02 PM;shmoon;21600,,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,,,,,"11/Sep/17 7:02 PM;shmoon;[~shmoon] logged work - 11/Sep/17 2:00 PM
+ * Time Spent:6 hours 안드로이드와 스피너 검색부분 버그 수정
+Permalink [Edit|http://192.168.1.7:8181/secure/UpdateWorklog!default.jspa?id=11064&worklogId=10346] [Delete|http://192.168.1.7:8181/secure/DeleteWorklog!default.jspa?id=11064&worklogId=10346]
+[~shmoon] logged work - 11/Sep/17 11:30 PM - edited
+ * Time Spent:2 hours 그래프에 출력할 주간 매출총액 api 개발
+
+팀장: 자기 부서의 총매출액
+
+사원: 본인의 총 매출액
+
+주간계획서의 first_weekday 값으로 주차별로 데이터 값을 db로부터 가져옴",,,
+[ToDo] 문성훈 09/09(토),FG-77,11060,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,09/Sep/17 9:11 AM,12/Sep/17 10:36 AM,19/Oct/17 3:37 PM,,,0,"그래프 데이터 api 설계
+
+안드로이드 로그인 유지를 위한 로직설계 sharedpreference사용",,shmoon,앱에서 토큰 저장 노드서버 api 추가;09/Sep/17 5:09 PM;shmoon;25200,,,,,28800,3600,25200,87%,28800,3600,25200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 문성훈 09/08(금),FG-73,11056,ToDo,In Progress,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,08/Sep/17 10:13 AM,08/Sep/17 5:08 PM,19/Oct/17 3:37 PM,,,0,"안드로이드 GCM, 노드 GCM 개발",,shmoon,"firebase cloud messaging 노드, 안드로이드 개발 완료
+
+사원이 승인요청을 팀장에게 하면
+
+팀장이 사용하는 기기에 알림이 온다.
+
+유저가 요청시 DB에 팀장의 fcmkey값을 얻어내어 해당 기기에 메시지 전송방식.
+
+ ;08/Sep/17 5:08 PM;shmoon;18000",,,,,28800,10800,18000,62%,28800,10800,18000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 문성훈 09/07(목),FG-72,11054,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,07/Sep/17 11:10 AM,09/Sep/17 4:26 PM,19/Oct/17 3:37 PM,,,0,"안드로이드 브로드 캐스트+알림기능
+
+ ",,shmoon,"서비스 기능, 노티기능 개발
+
+문제점 : 클라이언트가 서버에게 주기적으로 요청하는 방법으로 패킷발생으로 서버와 클라이언트에 과부화 우려
+
+대안책으로 구글 클라우드 메시징 서비스 gcm이 있다.
+
+ ;08/Sep/17 10:15 AM;shmoon;28800",,,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 문성훈 09/06(수),FG-69,11051,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,06/Sep/17 10:00 AM,07/Sep/17 11:00 AM,16/Oct/17 12:20 PM,,,0,"노드 다운로드기능 
+
+안드로이드 cursor 이용한 파일이름 정확히 가져오기",,shmoon,"안드로이드 cursor 사용 display file name 값 전달 완료
+
+노드 다운로드 기능 완성;06/Sep/17 11:42 AM;shmoon;7200","업로드 및 다운로드 기능 수정 완료 보고서 승인요청 보고날짜가 서버의 오늘날짜와 동일해야 보고서 승인요청 가능
+
+일일보고서 첨부파일 수정 상담일지 수정 삽입 삭제 둘다 가능;06/Sep/17 6:14 PM;shmoon;18000",,,,28800,3600,25200,87%,28800,3600,25200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 문성훈 09/05(화),FG-67,11049,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,05/Sep/17 10:09 AM,07/Sep/17 10:59 AM,16/Oct/17 12:20 PM,,,0,"안드로이드와 협업
+
+.안드로이드와 협업 일일보고서 수정시 로직 보고서에 첨부파일 첨부 5개로 제한 로직",,shmoon,"restful사양서, db사양서 내용, exrd파일 업데이트
+
+ 
+
+일일보고서 입력 변경 ( 보고날짜에 승인된게 없을 때 작성 가능) 보고날짜 선택시 날짜가 포함된 주차에 계획서가 없다면 날짜선택 불가능 목표매출액 값도 못 불러옴
+
+ 
+
+주간계획서 입력 변경 ( 작성 유저의 첫날 끝날 데이터가 없을 때 작성가능)
+
+ 
+
+주간계획서 수정 변경( 날짜 안바꾸고 데이터만 수정가능) 현재보다 과거의 시간 데이터 변경 불가능, 미래의 시간에 데이터가 없을 때 그날짜로 변경가능 (날짜값 얻어올 때 검증 먼저함)
+
+ 
+
+일일보고서 수정 변경  보고날짜에 승인된게 없을 때 그날짜로 수정 가능 날짜변경 없이 수정 가능 해당, 보고날짜 선택시 해당 날짜에 주간계획서가 없다면 수정불가능(입력에서 해당 날짜로 입력불가능)
+
+ 
+
+첨부파일 입력 수정(1개씩 업로드)
+
+md5값 비교 맞을때 db에 저장, mide값 받아서 db에 저장;05/Sep/17 6:27 PM;shmoon;28800",,,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,,,,,"05/Sep/17 6:27 PM;shmoon;[~shmoon] logged work - 05/Sep/17 10:00 PM
+ * Time Spent:1 day restful사양서, db사양서 내용, exrd파일 업데이트
+
+ 
+
+일일보고서 입력 변경 ( 보고날짜에 승인된게 없을 때 작성 가능) 보고날짜 선택시 날짜가 포함된 주차에 계획서가 없다면 날짜선택 불가능 목표매출액 값도 못 불러옴
+
+ 
+
+주간계획서 입력 변경 ( 작성 유저의 첫날 끝날 데이터가 없을 때 작성가능)
+
+ 
+
+주간계획서 수정 변경( 날짜 안바꾸고 데이터만 수정가능) 현재보다 과거의 시간 데이터 변경 불가능, 미래의 시간에 데이터가 없을 때 그날짜로 변경가능 (날짜값 얻어올 때 검증 먼저함)
+
+ 
+
+일일보고서 수정 변경  보고날짜에 승인된게 없을 때 그날짜로 수정 가능 날짜변경 없이 수정 가능 해당, 보고날짜 선택시 해당 날짜에 주간계획서가 없다면 수정불가능(입력에서 해당 날짜로 입력불가능)
+
+ 
+
+첨부파일 입력 수정(1개씩 업로드)
+
+md5값 비교 맞을때 db에 저장, mide값 받아서 db에 저장",,,
+[ToDo] 문성훈 09/04(월),FG-63,11044,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,04/Sep/17 10:35 AM,04/Sep/17 9:17 PM,19/Oct/17 3:37 PM,,,0,"안드로이드 첨부파일 업로드 (여러개, 토큰값 전송)",,shmoon,andorid에서 토큰값 header에 넣는걸로 토큰전송 해결;04/Sep/17 11:47 AM;shmoon;7200,"안드로이드 첨부파일 토큰, md5 값 전달 성공 서버측 받는것 성공
+
+단, 1개씩 가능 파일 첨부시마다 한개씩 전송되는 방식(안드로이드에서 수정필요)
+
+노드 서버 주간계획서 수정api 수정 입력api 수정
+
+ ;04/Sep/17 7:13 PM;shmoon;21600",,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,,,,,"04/Sep/17 7:13 PM;shmoon;[~shmoon] logged work - 04/Sep/17 10:00 AM
+ * Time Spent:2 hours andorid에서 토큰값 header에 넣는걸로 토큰전송 해결
+Permalink [Edit|http://192.168.1.7:8181/secure/UpdateWorklog!default.jspa?id=11044&worklogId=10316] [Delete|http://192.168.1.7:8181/secure/DeleteWorklog!default.jspa?id=11044&worklogId=10316]
+[~shmoon] logged work - 04/Sep/17 12:00 PM
+ * Time Spent:6 hours 안드로이드 첨부파일 토큰, md5 값 전달 성공 서버측 받는것 성공
+
+단, 1개씩 가능 파일 첨부시마다 한개씩 전송되는 방식(안드로이드에서 수정필요)
+
+노드 서버 주간계획서 수정api 수정 입력api 수정",,,
+[ToDo] 문성훈 09/02(토),FG-62,11043,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,02/Sep/17 9:46 AM,04/Sep/17 11:43 AM,23/Sep/17 5:00 PM,,,0,파일업로드 완료 목표,,shmoon,"안드로이드 파일첨부 완료
+
+토큰을 같이 보낼때 노드에서 값 파싱이 잘 안됨 form-data안에 있는 token만 뽑아낼 방법이 substring밖에 없을듯;02/Sep/17 6:01 PM;shmoon;28800",,,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 문성훈 09/01(금),FG-58,11039,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,01/Sep/17 9:23 AM,04/Sep/17 11:42 AM,19/Oct/17 3:37 PM,,,0,"안드로이드 어제 이어서 기본 UI 통합
+
+첨부파일 md5값 확인 기능 개발완료",,shmoon,,,,,,28800,28800,,0%,28800,28800,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 문성훈 08/31(목),FG-57,11038,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,01/Sep/17 9:20 AM,01/Sep/17 9:47 PM,19/Oct/17 3:37 PM,,,0,안드로이드 현재 개발된 ui들 엑티비티 통합,,shmoon,"코드분석, fragment 로 메인 페이지 나눔
+
+게시글 프레그먼트 통합중;01/Sep/17 9:21 AM;shmoon;28800",,,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 문성훈 08/30(수),FG-56,11037,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,01/Sep/17 9:20 AM,01/Sep/17 9:47 PM,19/Oct/17 3:37 PM,,,0,예비군1,,shmoon,,,,,,28800,28800,,0%,28800,28800,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 문성훈 08/29(화),FG-48,11028,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,29/Aug/17 9:57 AM,30/Aug/17 10:06 AM,19/Oct/17 3:37 PM,,,0,"안드로이드 공부
+
+안드로이드 UI 개발 
+
+
+
+노드코드 select문으로 데이터 반환시 db에 데이터 없으면 'no data'반환",,shmoon,"node 코드 정리 반환값, 첨부파일 부분 쿼리문 수정
+
+첨부파일 md5 해싱 테스트 결과값이 나오는데 클라이언트와 데이터가 맞는지 검증이 불가능;29/Aug/17 6:46 PM;shmoon;28800",,,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,,,,,"29/Aug/17 6:46 PM;shmoon;[~shmoon] logged work - 29/Aug/17 10:00 AM
+ * Time Spent:1 day node 코드 정리 반환값, 첨부파일 부분 쿼리문 수정
+
+첨부파일 md5 해싱 테스트 결과값이 나오는데 클라이언트와 데이터가 맞는지 검증이 불가능",,,
+[ToDo] 문성훈 08/28(월),FG-46,11021,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,28/Aug/17 10:07 AM,29/Aug/17 10:15 AM,19/Oct/17 3:37 PM,,,0,"일일보고서 수정부분 api 조건문 개발
+
+삭제 기능 개발",,shmoon,"일일보고서 일부 수정 개발
+
+삭제부분 전부 개발완료;28/Aug/17 4:47 PM;shmoon;10800",,,,,28800,18000,10800,37%,28800,18000,10800,,,,,,,,,,,,,,,,,,,,,,,,,,"28/Aug/17 6:56 PM;shmoon;3 hours 
+
+일일보고서 일부 수정 개발
+
+삭제부분 전부 개발완료",,,
+[ToDo] 문성훈 08/26(토),FG-43,11018,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,26/Aug/17 10:29 AM,28/Aug/17 9:14 AM,19/Oct/17 3:37 PM,,,0,이메일 기능 서버 코드에 추가,,shmoon,gamil 보내기 성공;26/Aug/17 10:29 AM;shmoon;1800,코드리뷰;26/Aug/17 5:34 PM;shmoon;23400,,,,28800,3600,25200,87%,28800,3600,25200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 문성훈 08/25(금),FG-39,11014,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,24/Aug/17 8:01 PM,26/Aug/17 9:55 AM,19/Oct/17 3:37 PM,,,0,"상담일지 DB바뀐 내용 대로 코드 수정 개발
+
+일일보고서 작성시 불러오는 상담일지 리스트,
+
+상담일지 입력시 1차 2차고객 필드 부분 수정 필요
+
+ 
+
+하루에 하나의 승인된 보고서만 있을 수 있도록 검증,
+
+이미 승인된 보고서가 있다면 더이상 보고서를 해당 보고 날짜에 못 쓰도록
+
+ 
+
+일일보고서 작성 api 첨부파일+상담일지 첨부 기능 완성 필요
+
+ 
+
+팀장 승인 기능 개발",,shmoon,"날짜당 하나의 보고서만 승인 받을 수 있도록 수정완료
+
+팀장의 승인기능 개발완료
+
+유저의 승인요청 기능 개발 필요;25/Aug/17 2:25 PM;shmoon;14400","팀장 승인 기능 개발완료
+
+팀장은 해당날짜에 이미 승인한 자료가 있다면 승인을 하지 못한다.
+
+그리고 같은 팀 사원의 보고서만 승인 가능
+
+사원 승인 요청 기능 개발완료 (메일 서비스 미개발)
+
+사원은 승인요청을 했거나 승인된 보고서가 있을 때 더이상 해당 날에는 승인을 하지 못한다.;25/Aug/17 6:25 PM;shmoon;14400",,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,,,,,"24/Aug/17 8:33 PM;shmoon;보고날짜에 승인된 보고서가 있다면 그 날짜에는 보고서를 더 이상 만들지 못함 승인된 보고서가 없다면 계속 생성 가능
+
+0: 미승인
+
+1: 승인요청
+
+2: 반려
+
+3: 승인
+
+상담일지 입력 쿼리 수정 완료 
+
+일일보고서에서 상담일지 첨부시에 상담일지 리스트 보여줄 때 1차 2차고객 모두 나오도록 수정","25/Aug/17 2:25 PM;shmoon;[~shmoon] logged work - 25/Aug/17 10:00 AM - edited
+ * Time Spent:4 hours 날짜당 하나의 보고서만 승인 받을 수 있도록 수정완료
+
+팀장의 승인기능 개발완료
+
+유저의 승인요청 기능 개발 필요","25/Aug/17 6:25 PM;shmoon;[~shmoon] logged work - 25/Aug/17 2:00 PM
+ * Time Spent:4 hours 팀장 승인 기능 개발완료
+
+팀장은 해당날짜에 이미 승인한 자료가 있다면 승인을 하지 못한다.
+
+그리고 같은 팀 사원의 보고서만 승인 가능
+
+사원 승인 요청 기능 개발완료 (메일 서비스 미개발)
+
+사원은 승인요청을 했거나 승인된 보고서가 있을 때 더이상 해당 날에는 승인을 하지 못한다.",
+[ToDo] 문성훈 08/24(목),FG-38,11013,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,shmoon,shmoon,24/Aug/17 6:56 PM,25/Aug/17 7:19 PM,19/Oct/17 3:37 PM,,,0,"주간계획서 작성시 필요한 데이터 반환 API 개발
+
+클라이언트에서 전송한 날짜값을 받으면 해당 날짜가 있는 주차의 월~일 날짜값을 반환 하는 API 개발
+
+한 유저가 주간계획서 작성시 중복된 날짜값을 가진 DB가 있다면 데이터를 넣지 못하도록 수정 개발",,shmoon,"node-calendar 모듈 사용법 공부 및 테스트 코드 작성
+
+테스트 코드로 원하는 날짜 데이터 추출 성공
+
+실제 서버코드에 적용 테스트 완료 해당날짜의 한주의 날짜값 모두 API로 반환함
+
+주간계획서 작성시 한 유저가 같은 날짜의 주간일지를 작성하지 못하도록 개발
+
+한주의 시작날짜 마지막 날짜값을 DB에서 저장하고 있고 그 데이터를 비교하여 검증;24/Aug/17 7:00 PM;shmoon;28800",,,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,,,,,"24/Aug/17 7:04 PM;shmoon;1 day 
+
+node-calendar 모듈 사용법 공부 및 테스트 코드 작성
+
+테스트 코드로 원하는 날짜 데이터 추출 성공
+
+실제 서버코드에 적용 테스트 완료 해당날짜의 한주의 날짜값 모두 API로 반환함
+
+주간계획서 작성시 한 유저가 같은 날짜의 주간일지를 작성하지 못하도록 개발
+
+한주의 시작날짜 마지막 날짜값을 DB에서 저장하고 있고 그 데이터를 비교하여 검증
+
+이상 서버사이드 테스트 완료",,,
+[ToDo] 문성훈 08/23(수),FG-34,11001,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,shmoon,shmoon,23/Aug/17 10:00 AM,24/Aug/17 7:03 PM,19/Oct/17 3:37 PM,,,0,"어제에 이어서 일일보고서 게시글 수정기능 개발 – 변경
+
+ 
+
+로그인 기능 재개발 로그인 실패 카운트 계산
+
+주간계획서 입력 재개발 (1주에 1개씩만 만들어질 수 있도록)",,shmoon,"회의진행
+
+ ;23/Aug/17 6:05 PM;shmoon;18000",로그인 기능 재개발;23/Aug/17 6:05 PM;shmoon;10800,,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,,,,,"23/Aug/17 6:04 PM;shmoon;오늘 회의에서 문제점 발견
+
+DB수정 이루어짐 
+
+주간계획서 테이블에서 일년에 몇번째 주인지 판단하기 위한 주차 필드
+
+일일보고서에서 주간계획서의 일간계획들의 날짜에 맞게 보고서를 결재 받기 위한 보고날짜 필드 추가
+
+첨부파일 테이블에서 파일의 사이즈, MD5 암호화 데이터 저장 필드 추가
+
+ 
+
+로그인 부분에서 해당아이디로 5회 이상 로그인 실패시 로그인이 불가능 하도록 수정 개발 완료
+
+로직:: 
+ # DB에 요청받은 ID가 있는지 확인
+ # (ID 체크시 fail_count 값 체크 5회가 넘으면 로그인 불가능 토큰 발행 불가능 바로 클라이언트에 데이터 5 전달. fail count가 4회 미만이면 4번실행
+ # fail_count값이 5회 미만 일 때 전달받은 데이터가 불일치 하면 유저 필드의 fail_count값 +1 update 실행
+ # fail_count값을 초기화 하기위한 update 실행 0으로 초기화 후 token을 만들어서 클라이언트에 전달
+
+ ","23/Aug/17 6:06 PM;shmoon;[~shmoon] logged work - 23/Aug/17 3:00 PM
+ * Time Spent:3 hours 로그인 기능 재개발
+Permalink [Edit|http://192.168.1.7:8181/secure/UpdateWorklog!default.jspa?id=11001&worklogId=10263] [Delete|http://192.168.1.7:8181/secure/DeleteWorklog!default.jspa?id=11001&worklogId=10263]
+[~shmoon] logged work - 23/Aug/17 10:00 PM
+ * Time Spent:5 hours 회의진행",,
+[ToDo] 문성훈 08/22(화),FG-31,10998,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,22/Aug/17 10:08 AM,26/Aug/17 9:55 AM,19/Oct/17 3:37 PM,,,0,"게시글 수정기능 개발
+
+안드로이드 일일보고서 첨부파일 부분 협업(이어서)",,shmoon,"게시글 수정 쿼리문 개발
+
+주간계획서 수정시 일일계획서 수정 같이 되도록
+
+ 
+
+일일보고서 수정시 일지에 연결된 첨부파일 삭제 (테이블에서 업로드된 파일 정보 삭제)
+
+(새로 첨부파일 올릴때는 새롭게 올리는 방식으로 해야될듯)
+
+상담일지 연결 해지 가능하도록 쿼리문 개발 (상담일지 남아있음)
+
+ 
+
+상담일지 수정 쿼리문 개발;22/Aug/17 11:50 AM;shmoon;7200","게시글 수정 서버사이드 개발 및 테스트
+
+주간계획서 업데이트 로직:
+
+주간계획서 데이터(vo), 일간계획서 데이터5개(월~금), 게시글의 유저번호 데이터를 전송 받음
+
+게시글 작성자의 유저번호와 로그인한 사용자의 토큰정보의 유저정보 비교 
+
+일치하지 않으면 no permission to modify 전송
+
+업데이트 할 데이터는 주간계획서 제목, 판매목표, 총 판매금액, 달성률, 게시글 번호
+
+일간계획서 날짜별 계획, 매출액, 휴무일, 게시글 번호
+
+일간 계획서 데이터 형식 JSON으로 5개의 데이터를 전송 받음
+
+\{ ""plan"":""업데이트 계획1"", ""saleTotal"":1, ""holiday"":1, ""no"":77}  이런식으로
+
+ 
+
+일일보고서 업데이트 로직;
+
+주간계획서와 마찬가지로 변경할 데이터만 받고 권한 검증 후 그 데이터만 수정
+
+게시자 유저번호, 매출목표, 매출액, 달성률, 시작 계기판, 퇴근 계기판, 계기판 총계, 내용, 게시글 번호, 첨부파일 번호, 첨부파일 신호( 1: 없앨 때 2: 새로 추가 3: 없애고 추가), 상담일지 번호, 상담일지 신호( 1: 없앨 때 2: 새로 추가 3: 없애고 추가)
+
+첨부파일 번호, 상담일지 번호 데이터 타입은 배열형식으로 전송 서버사이드에서 json으로 파싱 해서 데이터 활용 ex: [1,2,3] 이런식으로 전송
+
+첨부파일과 상담일지 부분은 일일보고서에서 삭제만 개발 완료
+
+ 
+
+상담일지 업데이트 로직;
+
+나머지 게시글과 마찬가지로 데이터를 들고와서 권한 확인 후 데이터 수정
+
+게시자 유저번호, 게시글 번호, 제목, 내용, 고객리스트 번호, 일일보고서 번호(다른 보고서로변경할때)
+
+일일보고서와 연결 해지 가능 연결해지가 하고싶으면 dayNo 값을 0으로 전송하면 가능
+
+ ;22/Aug/17 6:47 PM;shmoon;18000",,,,28800,3600,25200,87%,28800,3600,25200,,,,,,,,,,,,,,,,,,,,,,,,,,22/Aug/17 10:09 AM;shmoon;게시글 수정 서버사이드 개발 시작,"22/Aug/17 6:49 PM;shmoon;2 hours 
+
+게시글 수정 쿼리문 개발
+
+주간계획서 수정시 일일계획서 수정 같이 되도록
+
+ 
+
+일일보고서 수정시 일지에 연결된 첨부파일 삭제 (테이블에서 업로드된 파일 정보 삭제)
+
+(새로 첨부파일 올릴때는 새롭게 올리는 방식으로 해야될듯)
+
+상담일지 연결 해지 가능하도록 쿼리문 개발 (상담일지 남아있음)
+
+ 
+
+상담일지 수정 쿼리문 개발","22/Aug/17 6:49 PM;shmoon;5 hours 
+
+게시글 수정 서버사이드 개발 및 테스트
+
+주간계획서 업데이트 로직:
+
+주간계획서 데이터(vo), 일간계획서 데이터5개(월~금), 게시글의 유저번호 데이터를 전송 받음
+
+게시글 작성자의 유저번호와 로그인한 사용자의 토큰정보의 유저정보 비교 
+
+일치하지 않으면 no permission to modify 전송
+
+업데이트 할 데이터는 주간계획서 제목, 판매목표, 총 판매금액, 달성률, 게시글 번호
+
+일간계획서 날짜별 계획, 매출액, 휴무일, 게시글 번호
+
+일간 계획서 데이터 형식 JSON으로 5개의 데이터를 전송 받음
+
+\{ ""plan"":""업데이트 계획1"", ""saleTotal"":1, ""holiday"":1, ""no"":77}  이런식으로
+
+ 
+
+일일보고서 업데이트 로직;
+
+주간계획서와 마찬가지로 변경할 데이터만 받고 권한 검증 후 그 데이터만 수정
+
+게시자 유저번호, 매출목표, 매출액, 달성률, 시작 계기판, 퇴근 계기판, 계기판 총계, 내용, 게시글 번호, 첨부파일 번호, 첨부파일 신호( 1: 없앨 때 2: 새로 추가 3: 없애고 추가), 상담일지 번호, 상담일지 신호( 1: 없앨 때 2: 새로 추가 3: 없애고 추가)
+
+첨부파일 번호, 상담일지 번호 데이터 타입은 배열형식으로 전송 서버사이드에서 json으로 파싱 해서 데이터 활용 ex: [1,2,3] 이런식으로 전송
+
+첨부파일과 상담일지 부분은 일일보고서에서 삭제만 개발 완료
+
+ 
+
+상담일지 업데이트 로직;
+
+나머지 게시글과 마찬가지로 데이터를 들고와서 권한 확인 후 데이터 수정
+
+게시자 유저번호, 게시글 번호, 제목, 내용, 고객리스트 번호, 일일보고서 번호(다른 보고서로변경할때)
+
+일일보고서와 연결 해지 가능 연결해지가 하고싶으면 dayNo 값을 0으로 전송하면 가능",
+[ToDo] 문성훈 08/21(월),FG-27,10994,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,shmoon,shmoon,21/Aug/17 10:07 AM,22/Aug/17 8:51 PM,19/Oct/17 3:37 PM,,,0,"리스트 기능 마무리 및 상세보기 페이지 구현
+
++추가: 키워드 검색기능 (제목+내용) 상담일지, 일일보고서, 상담일지 구현
+
++추가 : 일일보고서 작성시 상담일지 의존관계 구현
+
++추가: 게시글 수정 기능 구현",,shmoon,"주간계획서, 일일계획서 상세보기 개발
+
+유저권한은 해당유저가 게시한 글의 상세보기만 가능함
+
+팀장권한은 게시글의 상세보기의 제한이 없음
+
+일일보고서 상세보기 추가 해야할 문제 상담일지 연결되었을 때 상세보기에서 목록을 보여주어야 함;21/Aug/17 12:35 PM;shmoon;7200","일일보고서 상세보기시 상담일지 내용 표시 개발
+
+상담일지 상세보기 개발 완료;21/Aug/17 1:58 PM;shmoon;3600","키워드 검색 기능 개발
+
+팀장은 해당 게시글 검색창에서 모든 유저가 작성한 게시글 검색 가능 0:주간계획 1:일일보고서 2:상담일지
+
+사원은 자신의 게시글만 키워드 검색 가능
+
+주간계획서는 제목으로 검색
+
+그외의 게시글은 제목 또는 내용으로 검색;21/Aug/17 2:45 PM;shmoon;3600","일일보고서 작성시 보고서에 첨부할 상담일지 리스트기능(상담일지 인덱스 번호, 상담일지 제목, 1차고객 이름 2차고객 이름) 개발 및 서버사이드 테스트 마침
+
+일일보고서 작성시 보고서에 첨부된 상담일지의 테이블 필드값 일지와 동기화 개발 및 서버사이드 테스트 마침 (첨부파일 업데이트는 이전에 완료)
+
+ ;21/Aug/17 4:17 PM;shmoon;3600","코드 정리, resful 사양서 업데이트
+
+안드로이드 이미지 업로드 검색 공부;21/Aug/17 7:16 PM;shmoon;10800",28800,10800,28800,100%,28800,10800,28800,,,,,,,,,,,,,,,,,,,,,,,,,,"22/Aug/17 6:51 PM;shmoon;logged work - 21/Aug/17 10:00 AM - edited
+Time Spent: 2 hours
+ 
+주간계획서, 일일계획서 상세보기 개발
+유저권한은 해당유저가 게시한 글의 상세보기만 가능함
+팀장권한은 게시글의 상세보기의 제한이 없음
+일일보고서 상세보기 추가 해야할 문제 상담일지 연결되었을 때 상세보기에서 목록을 보여주어야 함
+
+logged work - 21/Aug/17 1:00 PM
+Time Spent: 1 hour
+ 
+일일보고서 상세보기시 상담일지 내용 표시 개발
+상담일지 상세보기 개발 완료
+
+logged work - 21/Aug/17 2:00 PM
+Time Spent: 1 hour
+ 
+키워드 검색 기능 개발
+팀장은 해당 게시글 검색창에서 모든 유저가 작성한 게시글 검색 가능 0:주간계획 1:일일보고서 2:상담일지
+사원은 자신의 게시글만 키워드 검색 가능
+주간계획서는 제목으로 검색
+그외의 게시글은 제목 또는 내용으로 검색
+
+logged work - 21/Aug/17 4:00 PM - edited
+Time Spent: 3 hours
+ 
+코드 정리, resful 사양서 업데이트
+안드로이드 이미지 업로드 검색 공부",,,
+[ToDo] 문성훈 08/18(금),FG-25,10947,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,shmoon,shmoon,18/Aug/17 10:04 AM,22/Aug/17 6:51 PM,19/Oct/17 3:37 PM,,,0,"주간일지 계획서
+
+일일 보고서 
+
+상담일지 
+
+각 계획서 및 보고서들 리스팅 기능 개발
+
+각 글들의 리스트는 최대 5개의 게시글을 포함 5개씩 리스트로 전송 하도록
+
+ 
+
+완료시 순차적으로 상세보기 기능 개발
+
+개발도중 안드로이드와 테스트(글작성 부분)",,shmoon,"주간일지 리스트 가져오기 유저부분 개발완료
+
+팀장일때 같은 부서의 유저들 리스트를 다 가져와야 하는데 쿼리문 연구중;18/Aug/17 11:44 AM;shmoon;7200","주간계획서 리스트 기능 개발 팀장이 팀원 게시글 모두 리스팅, 일반 사원이 자신의 게시글 5개씩 리스팅 개발 완료 (서버단 테스트 완료);18/Aug/17 1:44 PM;shmoon;3600","각 게시글들 5개씩 리스팅 기능 개발 완료(주간계획서, 일일보고서, 상담일지)
+
+안드로이드에서 스피너로 게시글 검색 기능 개발 완료(팀장 권한으로 게시글에서 팀별 이름별로 검색 하도록)
+
+(팀장이 처음 게시글에 들어갔을 때 자신의 팀원들의 게시글이 최신순으로 5개씩 출력)
+
+서버단에서 테스트 완료
+
+API 사양서 업데이트;18/Aug/17 6:23 PM;shmoon;18000",,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,,,,,"22/Aug/17 6:51 PM;shmoon;logged work - 18/Aug/17 10:00 AM
+Time Spent: 2 hours
+ 
+주간일지 리스트 가져오기 유저부분 개발완료
+팀장일때 같은 부서의 유저들 리스트를 다 가져와야 하는데 쿼리문 연구중
+
+logged work - 18/Aug/17 1:00 PM - edited
+Time Spent: 1 hour
+ 
+주간계획서 리스트 기능 개발 팀장이 팀원 게시글 모두 리스팅, 일반 사원이 자신의 게시글 5개씩 리스팅 개발 완료 (서버단 테스트 완료)
+
+logged work - 18/Aug/17 2:00 PM - edited
+Time Spent: 5 hours
+ 
+각 게시글들 5개씩 리스팅 기능 개발 완료(주간계획서, 일일보고서, 상담일지)
+안드로이드에서 스피너로 게시글 검색 기능 개발 완료(팀장 권한으로 게시글에서 팀별 이름별로 검색 하도록)
+(팀장이 처음 게시글에 들어갔을 때 자신의 팀원들의 게시글이 최신순으로 5개씩 출력)
+서버단에서 테스트 완료
+API 사양서 업데이트",,,
+[ToDo] 문성훈 08/17(목),FG-22,10944,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,shmoon,shmoon,17/Aug/17 10:06 AM,22/Aug/17 6:51 PM,19/Oct/17 3:37 PM,,,0,"각 일지들 리스팅 요청시 데이터 받아오는 api 개발
+
+*안드로이드 담당과 협의 후 진행 
+
+첨부파일 api 개발
+
+ 
+
+변경내용 : 
+
+리스팅 API 개발은 추후에
+
+첨부파일 부분 다운로드와 함께 개발완료
+
+안드로이드와 주간계획 입력 통신 확인",,shmoon,"오전 : nodejs multer 모듈 테스트 파일업로드 테스트(오류로 인해 시간이 많이 소비됨)
+
+오후: nodejs multer모듈로 파일 저장 테스트 및 다운로드 테스트(싱글 파일);17/Aug/17 2:37 PM;shmoon;14400","파일업로드 최대 5개 이하로 제한 개발
+
+일일보고서 작성시 파일업로드 테이블의 데이터와 연관짓기 위해 일일보고서 작성 api 부분에 작성 후 update문 추가 일일보고서 인덱스값을 첨부파일들이 들고 있을 수 있게 개발
+
+다운로드 기능 개발(토큰검증 상세보기에서 데이터를 날려주면 다운이 가능)
+
+주간계획서 안드로이드와 통신 성공 DB에 데이터 저장 확인
+
+ ;17/Aug/17 6:21 PM;shmoon;14400",,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,,,,,17/Aug/17 10:08 AM;shmoon;오전에 첨부파일 부분 선 진행,"17/Aug/17 6:22 PM;shmoon;리스팅 API 개발은 추후에
+
+첨부파일 부분 다운로드와 함께 개발완료
+
+안드로이드와 주간계획 입력 통신 확인","22/Aug/17 6:51 PM;shmoon;logged work - 17/Aug/17 3:00 PM
+Time Spent: 4 hours
+ 
+파일업로드 최대 5개 이하로 제한 개발
+일일보고서 작성시 파일업로드 테이블의 데이터와 연관짓기 위해 일일보고서 작성 api 부분에 작성 후 update문 추가 일일보고서 인덱스값을 첨부파일들이 들고 있을 수 있게 개발
+다운로드 기능 개발(토큰검증 상세보기에서 데이터를 날려주면 다운이 가능)
+주간계획서 안드로이드와 통신 성공 DB에 데이터 저장 확인
+
+logged work - 17/Aug/17 10:00 PM
+Time Spent: 4 hours
+ 
+오전 : nodejs multer 모듈 테스트 파일업로드 테스트(오류로 인해 시간이 많이 소비됨)
+오후: nodejs multer모듈로 파일 저장 테스트 및 다운로드 테스트(싱글 파일)",
+[ToDo] 문성훈 08/16(목),FG-20,10942,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,shmoon,shmoon,shmoon,16/Aug/17 10:15 AM,22/Aug/17 6:52 PM,19/Oct/17 3:37 PM,,,0,"일일보고서 server side 개발 및 테스트
+
+주간계획서 입력부분 android와 협업하여 테스팅 (가능하면)
+
+ 
+
+개발 후 파일 업로드 관련 공부중
+
+내일: 파일업로드 개발 예정",,shmoon,"일일보고서 입력 코멘트 입력 개발
+
+글 작성 할때 접속한 유저 정보의 번호값으로 데이터를 DB에 넣게됨
+
+특정 데이터를 삽입할때 다른 유저의 정보가 필요한 경우에 대처할 방법이 필요(있다면)
+
+계획서 입력시에 필요한 데이터 유저정보 오늘 날짜정보(???)
+
+일일보고서 입력시에 해당일 오늘의 날짜정보로 그날의 매출목표액을 select해와야한다.;16/Aug/17 11:54 AM;shmoon;7200","상담일지 입력 개발 입력하기 전에 고객리스트 1, 2차 정보 요청 처리 개발
+
+ ;16/Aug/17 3:16 PM;shmoon;7200",상담일지 입력부분 및 일일보고서 입력시 필요한 데이터 출력 입력 개발;16/Aug/17 5:12 PM;shmoon;7200,계획서 보고서 입력 개발 완료;16/Aug/17 6:44 PM;shmoon;7200,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,,,,,16/Aug/17 10:43 AM;shmoon;DB 오타 테이블의 column명 중 오타발견 매출목표 sale_gole -> sale_goal,"16/Aug/17 3:16 PM;shmoon;상담일지 작성 부분 우선 개발 
+
+작성전에 보여주어야 할 데이터 서버로부터 받을 수 있도록 개발",16/Aug/17 3:43 PM;shmoon;상담일지 입력시 일일보고서와 연결하지 않고 일일보고서에서 나중에 등록할때 테이블 컬럼값 업데이트 하는 방식으로 수정,"22/Aug/17 6:52 PM;shmoon;2 hours
+ 
+일일보고서 입력 코멘트 입력 개발
+글 작성 할때 접속한 유저 정보의 번호값으로 데이터를 DB에 넣게됨
+특정 데이터를 삽입할때 다른 유저의 정보가 필요한 경우에 대처할 방법이 필요(있다면)
+계획서 입력시에 필요한 데이터 유저정보 오늘 날짜정보(???)
+일일보고서 입력시에 해당일 오늘의 날짜정보로 그날의 매출목표액을 select해와야한다.
+
+logged work - 16/Aug/17 1:00 PM
+Time Spent: 2 hours
+ 
+상담일지 입력 개발 입력하기 전에 고객리스트 1, 2차 정보 요청 처리 개발
+
+logged work - 16/Aug/17 3:00 PM - edited
+Time Spent: 2 hours
+ 
+상담일지 입력부분 및 일일보고서 입력시 필요한 데이터 출력 입력 개발
+
+logged work - 16/Aug/17 5:00 PM - edited
+Time Spent: 2 hours
+ 
+계획서 보고서 입력 개발 완료"
+[ToDo] 문성훈 08/11(금),FG-15,10914,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,shmoon,shmoon,11/Aug/17 10:44 AM,22/Aug/17 6:52 PM,19/Oct/17 3:37 PM,,,0,"주간계획서 데이터 베이스 삽입 API 개발
+
+주간계획서에 포함된 일일 계획서 데이터 삽입에 대한 로직 개발
+
+주간계획서 작성 개발완료 (주간계획서 + 일일계획서)
+
+일일계획서 작성 실패시 작성된 주간계획서 삭제 트랜잭션 개발",,shmoon,"테스트 데이터 만들기 위해 JSON 데이터 작성
+
+테스트 데이터 서버에서 수신시 week planner DB에 삽입 후 day planner 5개 삽입
+
+안드로이드와 데이터 통신 상호작용으로 정확한 데이터를 전달 받아 넣는 테스트 필요
+
+일일계획서 DB삽입은 반복문을 통해 5번 삽입(mysql에서 multiple insert 기능을 이용해 봤지만 생각처럼 되지 않음)
+
+-해결됨;11/Aug/17 5:07 PM;shmoon;21600","트랜잭션 기능
+
+week planner 작성후 day planner작성 도중 mysql 에러가 나면 작성되었던 주간계획서 삭제 기능 개발
+
+ 
+
+주간계획서 insert 로직
+
+주간계획 리스트 작성 정보 받아온 후 sql에 삽입
+
+삽입후 나오는 주간계획 번호를 이용하여 일간계획서를 해당주간계획서에 종속 시켜 작성
+
+ 
+
+일간계획이 sql에 삽입되지 못하면 주간계획서 db의 데이터 삭제가 이루어지고 사용자가 처음부터 주간계획서를 작성하도록 해야한다.
+
+ ;11/Aug/17 5:34 PM;shmoon;3600",회의 1시간;11/Aug/17 6:05 PM;shmoon;3600,,,28800,0,28800,100%,28800,0,28800,,11/Aug/17 6:07 PM;shmoon;app.js;http://192.168.1.7:8181/secure/attachment/10107/app.js,,,,,,,,,,,,,,,,,,,,,,,,"11/Aug/17 6:29 PM;shmoon;profile/info 요청 데이터 전달 버그 수정
+
+(쿼리문 오류)","22/Aug/17 6:52 PM;shmoon;logged work - 11/Aug/17 4:30 PM
+Time Spent: 1 hour
+ 
+트랜잭션 기능
+week planner 작성후 day planner작성 도중 mysql 에러가 나면 작성되었던 주간계획서 삭제 기능 개발
+ 
+주간계획서 insert 로직
+주간계획 리스트 작성 정보 받아온 후 sql에 삽입
+삽입후 나오는 주간계획 번호를 이용하여 일간계획서를 해당주간계획서에 종속 시켜 작성
+ 
+일간계획이 sql에 삽입되지 못하면 주간계획서 db의 데이터 삭제가 이루어지고 사용자가 처음부터 주간계획서를 작성하도록 해야한다.
+
+
+logged work - 11/Aug/17 10:00 AM - edited
+Time Spent: 6 hours
+ 
+테스트 데이터 만들기 위해 JSON 데이터 작성
+테스트 데이터 서버에서 수신시 week planner DB에 삽입 후 day planner 5개 삽입
+안드로이드와 데이터 통신 상호작용으로 정확한 데이터를 전달 받아 넣는 테스트 필요
+일일계획서 DB삽입은 반복문을 통해 5번 삽입(mysql에서 multiple insert 기능을 이용해 봤지만 생각처럼 되지 않음)
+-해결됨",,
+[ToDo] 문성훈 08/10(목),FG-13,10911,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,shmoon,shmoon,09/Aug/17 7:00 PM,22/Aug/17 6:53 PM,19/Oct/17 3:37 PM,,,0,"Restful API 설계-
+
+프로필 관련부분 설계 및 개발
+
+주간계획서 입력 api 설계",,shmoon,"프로필 수정 API 개발완료 
+
+token값으로 유저의 정보확인 후 현재비밀번호와 토큰내의 비밀번호 비교후 맞으면 수정되도록 개발
+
+ 
+
+token값 확인 후 유저의 home설정 정보 수정 개발 완료
+
+ ;10/Aug/17 6:38 PM;shmoon;21600",주간계획서 입력 api 개발중;10/Aug/17 6:39 PM;shmoon;7200,,,,28800,0,28800,100%,28800,0,28800,,10/Aug/17 7:33 PM;shmoon;request.js;http://192.168.1.7:8181/secure/attachment/10106/request.js,,,,,,,,,,,,,,,,,,,,,,,,"22/Aug/17 6:53 PM;shmoon;logged work - 10/Aug/17 10:00 AM
+Time Spent: 6 hours
+ 
+프로필 수정 API 개발완료 
+token값으로 유저의 정보확인 후 현재비밀번호와 토큰내의 비밀번호 비교후 맞으면 수정되도록 개발
+ 
+token값 확인 후 유저의 home설정 정보 수정 개발 완료
+
+logged work - 10/Aug/17 5:00 PM
+Time Spent: 2 hours
+ 
+주간계획서 입력 api 개발중",,,
+[ToDo] 문성훈 08/09(수),FG-10,10908,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,shmoon,shmoon,09/Aug/17 3:24 PM,22/Aug/17 6:53 PM,19/Oct/17 3:37 PM,,,0,"안드로이드에 토큰값 발행(JWT)
+
+안드로이드로 부터 사용자 id, sha256암호화된 비밀번호 값을 받아서
+
+MySql DB에서 데이터 비교후 일치하는 유저가 있다면 토큰을 발행 후 클라이언트에 전달.
+
+일치하는 데이터가 없다면 문자열 false값을 반환 토큰을 재발행 할 수 있는 조취를 취하도록 함
+
+ ",,shmoon,"JWT 규약 안드로이드와 협의
+
+ID, SHA256 복호화된 PW를 사용하여 JWT 생성
+
+안드로이드에 토큰전달;09/Aug/17 3:26 PM;shmoon;14400","클라이언트에 발급한 토큰값 서버에서 확인 페이지 개발
+
+토큰을 private key로 복호화 가능 여부에 따라서 유효토큰인지 결정
+
+성공적인 테스트 마침
+
+ 
+
+git클라이언트 서버와 연동 nodeJS 프로젝트 첫 커밋 및 push;09/Aug/17 6:26 PM;shmoon;14400",,,,28800,0,28800,100%,28800,0,28800,,09/Aug/17 6:59 PM;shmoon;request.js;http://192.168.1.7:8181/secure/attachment/10104/request.js,,,,,,,,,,,,,,,,,,,,,,,,"09/Aug/17 3:28 PM;shmoon;토큰생성에 사용하는 private key값을 외부 txt파일로 저장하여 불러올 때
+
+해당 문자열값으로 JWT검증 할 경우 검증이 안돼서 일단은 코드 내부에 key값을 선언하여 사용
+
+하지만, 외부파일을 불러와도 복호화는 문제없음","22/Aug/17 6:53 PM;shmoon;logged work - 09/Aug/17 10:00 AM
+Time Spent: 4 hours
+ 
+JWT 규약 안드로이드와 협의
+ID, SHA256 복호화된 PW를 사용하여 JWT 생성
+안드로이드에 토큰전달
+
+
+logged work - 09/Aug/17 6:25 PM - edited
+Time Spent: 4 hours
+ 
+클라이언트에 발급한 토큰값 서버에서 확인 페이지 개발
+토큰을 private key로 복호화 가능 여부에 따라서 유효토큰인지 결정
+성공적인 테스트 마침
+ 
+git클라이언트 서버와 연동 nodeJS 프로젝트 첫 커밋 및 push",,
+[ToDO]문성훈 08/08(화),FG-8,10903,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,shmoon,shmoon,08/Aug/17 7:05 PM,22/Aug/17 6:53 PM,23/Sep/17 4:59 PM,,,0,"안드로이드 post방식으로 node.js와 데이터 통신 페이지 개발
+
+node.js 테스트 페이지 ajax 개발",,shmoon,"node.js ajax로 클라이언트 테스트 통신 개발 및 안드로이드용 에코 페이지 개발
+
+post 통신만 개발됨;08/Aug/17 7:07 PM;shmoon;18000","jwt 토큰 안드로이드와 협의 nodejs 서버측에서 id password 값으로 토큰화 하기로 결정 nodejs에서 테스트 데이터로 토큰생성 토큰 복호 테스트 완료
+
+private키 txt파일로 저장하여 file system 모듈로 파일 읽어서 데이터 활용 개발(시간이 많이 소비됨);08/Aug/17 7:09 PM;shmoon;10800",,,,28800,0,28800,100%,28800,0,28800,,08/Aug/17 7:10 PM;shmoon;request.js;http://192.168.1.7:8181/secure/attachment/10101/request.js,08/Aug/17 7:10 PM;shmoon;requestTest.html;http://192.168.1.7:8181/secure/attachment/10102/requestTest.html,08/Aug/17 7:10 PM;shmoon;tokenTest.js;http://192.168.1.7:8181/secure/attachment/10103/tokenTest.js,,,,,,,,,,,,,,,,,,,,,,"22/Aug/17 6:53 PM;shmoon;logged work - 08/Aug/17 10:00 AM
+Time Spent: 5 hours
+ 
+node.js ajax로 클라이언트 테스트 통신 개발 및 안드로이드용 에코 페이지 개발
+post 통신만 개발됨
+
+logged work - 08/Aug/17 4:07 PM
+Time Spent: 3 hours
+ 
+jwt 토큰 안드로이드와 협의 nodejs 서버측에서 id password 값으로 토큰화 하기로 결정 nodejs에서 테스트 데이터로 토큰생성 토큰 복호 테스트 완료
+private키 txt파일로 저장하여 file system 모듈로 파일 읽어서 데이터 활용 개발(시간이 많이 소비됨)",,,

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FBF5F4</color>
+
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="item_click">#D6D7D7</color>
+    <color name="black">#000</color>
+    <color name="dark_red">#959494</color>
+    <color name="item">#ffffff</color>
+
+    <color name="sms_red">#880000</color>
+    <color name="edit_text">#D6D7D7</color>
+    <color name="edit_content_text">#A6CAF0</color>
+
+    <color name="btn_cancel_text">#959494</color>
+    <color name="text_basic">#959494</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="splash_overlay">#d0880000</color>
+
+    <color name="backGround">#d0000000</color>
+</resources>

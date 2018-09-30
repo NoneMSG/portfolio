@@ -1,0 +1,396 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project description,Project url,Priority,Resolution,Assignee,Reporter,Creator,Created,Updated,Last Viewed,Resolved,Due Date,Votes,Description,Environment,Watchers,Log Work,Log Work,Log Work,Log Work,Original Estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Custom field (Counter Measure),Custom field (Difficulty),Custom field (Fix Version/s),Custom field (Found Date),Custom field (Integrated CW),Custom field (Integrated Version),Custom field (Occurrence),Custom field (Origin of Task),Custom field (Original Estimate),Custom field (Planned End),Custom field (Planned Start),Custom field (Reject reason),Custom field (Risk),Custom field (Root cause),Custom field (SW Version),Custom field (SW_Version_Fix_Planned),Custom field (SW_Version_Fixed),Custom field (Story Points),Custom field (Test Delay Reason),Custom field (Test Result),Custom field (Velocity)
+[ToDo] 양승근_09/29(금),FG-131,11119,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,13/Oct/17 8:07 PM,13/Oct/17 8:14 PM,16/Oct/17 11:54 AM,,,0,"그래프 기능 완성, 관리자 페이지 작업 진행
+
+그래프의 Back 단 기능까지 구현 완료
+
+관리자 페이지 UI작업 진행",,sgyang,"그래프 구현 완료
+
+관리자 페이지 UI작업 진행 ;13/Oct/17 8:13 PM;sgyang;28800",,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_09/28(목),FG-130,11118,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,13/Oct/17 7:59 PM,13/Oct/17 8:00 PM,13/Oct/17 8:08 PM,,,0,"그래프 UI 부분 작업 (Front End)
+ # 년도별 , 월별로 데이터를 출력 
+ #  권한별 데이터 출력
+ # 모달의 동적 생성 (모듈화)
+
+ 
+
+ ",,sgyang,"그래프를 뿌려줌에 있어 데이터를 
+
+권한별로 제어를 하는것이 
+
+시간이 많이듬;13/Oct/17 8:00 PM;sgyang;28800",,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_09/27(수),FG-129,11117,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,13/Oct/17 7:41 PM,13/Oct/17 7:42 PM,13/Oct/17 7:43 PM,,,0,"DashBoard 부분 작업 진행
+
+[https://gionkunz.github.io/chartist-js/] (chartist js 라이브러리)
+
+그래프 라이브러리 문서를 분석 
+
+애니메이션 모듈을 분석
+
+ ",,sgyang,"chartist-js 문서를 분석하고
+
+기본 UI 및 Back 단 데이터 흐름(로직)을 구성함;13/Oct/17 7:42 PM;sgyang;28800",,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_09/26(화),FG-128,11116,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,13/Oct/17 7:38 PM,13/Oct/17 7:38 PM,13/Oct/17 7:38 PM,,,0,"달력 부분 작업 진행 
+
+[https://fullcalendar.io/]  (fullcalendar 라이브러리)
+
+라이브러리 문서를 분석하여 Back단 데이터를 가공하여 뿌려줌
+
+ ",,sgyang,달력 기능 구현 완료;13/Oct/17 7:38 PM;sgyang;28800,,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_09/25(월),FG-114,11102,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,26/Sep/17 9:20 PM,26/Sep/17 9:24 PM,13/Oct/17 7:36 PM,,,0,"JIRA 유틸 플러그인 라이선스 갱신
+
+캘린더 기능 구현, Jenkins 이용한 CI 및 
+
+antroid 와 통합 테스트 진행 
+
+ ",,sgyang,"테스트 진행시 발생한 버그 피드백
+
+캘린더 기능 구현 -> full calendar 사용
+
+ ;26/Sep/17 9:24 PM;sgyang;36000",,,,28800,0,36000,125%,28800,0,36000,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_09/22(금),FG-110,11098,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,25/Sep/17 3:32 PM,26/Sep/17 9:16 PM,13/Oct/17 7:36 PM,,,0,"CRUD 전부 완성 -> test 밑 버그 수정 
+
+코드 모듈화 작업 진행 
+
+ 
+
+ ",,sgyang,"코드 모듈화 작업 진행
+
+CRUD 테스트 진행;26/Sep/17 9:16 PM;sgyang;36000",,,,28800,0,36000,125%,28800,0,36000,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_09/21(목),FG-109,11096,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,22/Sep/17 10:02 PM,22/Sep/17 10:04 PM,13/Oct/17 7:36 PM,,,0,"일일 업무 보고서에 상담일지 목록을 추가하는 multi select 부분 작업
+
+Jquery ui 사용하여 UI를 통일화 진행",,sgyang,"ui 부분에서 이벤트가 겹치고 refresh 할경우 해당 input text 에 focus 문제가 
+
+발생하여 고전하였지만 그위에 position absolute 값을 주어 
+
+새로운 input에 데이터를 받는 형식으로 (눈속임) 진행함;22/Sep/17 10:03 PM;sgyang;36000",,,,28800,0,36000,125%,28800,0,36000,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_09/20(수),FG-108,11095,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,22/Sep/17 9:57 PM,22/Sep/17 9:59 PM,22/Sep/17 9:59 PM,,,0,"Db로직 변경으로 인하여 VO 등을 수정
+
+상담일지 입력 부분 Back 단 작업 진행 ",,sgyang,"상담일지 Back단 작업 진행
+
+insert 문과 update 문을 다중 쿼리로 진행하는 부분에서 고전 ;22/Sep/17 9:59 PM;sgyang;36000",,,,28800,0,36000,125%,28800,0,36000,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_09/19(화),FG-107,11094,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,22/Sep/17 9:54 PM,22/Sep/17 9:58 PM,22/Sep/17 9:58 PM,,,0,상담일지 팝업 레이어 UI작업 진행,,sgyang,"상담일지 팝업 UI 검색 부분 작업 진행
+
+이벤트 가 자꾸 꼬여서 시간을 잡아먹음;22/Sep/17 9:56 PM;sgyang;36000",,,,28800,0,36000,125%,28800,0,36000,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_09/18(월),FG-99,11086,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,19/Sep/17 9:43 AM,22/Sep/17 9:58 PM,19/Oct/17 3:37 PM,,,0,"일일 업무 보고서 부분 작업 완료
+
+토스트 기능에 링크 기능을 추가하여 click 시 해당 page로 이동이 되도록 수정
+
+기존 로직 개선",,sgyang,"일일 보고서 끝 
+
+상담일지 작성 부분 작업;19/Sep/17 9:44 AM;sgyang;36000",,,,28800,0,36000,125%,28800,0,36000,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_09/15(금),FG-98,11085,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,19/Sep/17 9:39 AM,19/Sep/17 9:40 AM,19/Oct/17 3:37 PM,,,0,"일일 업무 보고서 popup부분 구현
+
+업무보고서 작성란의 조건들
+
+출발시 계기판이 퇴근 계기판 보다 작아야 한다.
+
+양수 ,소수점 허용등등 front end 제어를 진행 (Jquery)
+
+ 
+
+ ",,sgyang,일일업무 보고서의 매출 액은 적자를 포함하지 않는 흑자 계산만 가능하게 설정 하였습니다.;19/Sep/17 9:40 AM;sgyang;36000,,,,28800,0,36000,125%,28800,0,36000,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_09/14(목),FG-95,11082,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,15/Sep/17 2:14 PM,15/Sep/17 2:15 PM,19/Oct/17 3:37 PM,,,0,"파일 업로드시 MD5값을 전달하는 방법 구현
+
+라이브러리에 문제가 있는 부분을 수정하는데 시간이 많이 소모됨
+
+Front end 모든 파일업로드 처리 완료 (디렉토리 부분 로직 구현 )",,sgyang,MD5 checksum 작업 진행 ;15/Sep/17 2:14 PM;sgyang;36000,,,,28800,0,36000,125%,28800,0,36000,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_09/13(수),FG-94,11081,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,15/Sep/17 2:11 PM,15/Sep/17 2:12 PM,19/Oct/17 3:37 PM,,,0,"첨부파일 drag and drop 기능 구현
+
+파일 업로드 처리 부분 완료 (병렬로 데이터 전송 및 업로드)",,sgyang,"파일을 병렬로 업로드 하고
+
+remove 버튼 클릭시 삭제가 되며
+
+해당 파일을 cliclk시 다운로드가 되도록 개발함.
+
+(파일 업로딩 및 DB처리 작업 포함);15/Sep/17 2:12 PM;sgyang;36000",,,,28800,0,36000,125%,28800,0,36000,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_09/12(화),FG-87,11074,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,13/Sep/17 9:26 AM,13/Sep/17 9:26 AM,19/Oct/17 3:37 PM,,,0,"Drag and Drop 기능구현
+
+병렬 처리기반으로 데이터 전송 및 첨부파일 업로드 처리 
+
+용량 300MB 제한 MD5 기능구현 
+
+ ",,sgyang,파일 업로드 기능 구현;13/Sep/17 9:26 AM;sgyang;36000,,,,28800,0,36000,125%,28800,0,36000,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_09/11(월),FG-84,11071,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,12/Sep/17 10:41 AM,12/Sep/17 10:41 AM,19/Oct/17 3:37 PM,,,0,"주간 입력 부분 끝
+
+팝업 jquery  부분 로직에 따른 수정 
+
+front 쪽 코드를 차후 수정이 필요",,sgyang,주간일지 작성 부분 개발 완료;12/Sep/17 10:41 AM;sgyang;28800,,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_09/09(토),FG-83,11070,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,12/Sep/17 10:38 AM,12/Sep/17 10:39 AM,19/Oct/17 3:37 PM,,,0,"주간 입력 popup 작업 진행
+
+입력 수정등 조건에 따른 로직 개선
+
+조건 
+ # 해당주는 포함 이전은 수정 불가
+ # 이후는 날짜까지 수정가능
+ # create 버튼으로 해당 일자를 클릭시 만약 문서가 있으면 수정 가능하게 표시",,sgyang,주간 입력 수정 ;12/Sep/17 10:39 AM;sgyang;28800,,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_09/08(금),FG-79,11062,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,09/Sep/17 4:30 PM,09/Sep/17 4:31 PM,19/Oct/17 3:37 PM,,,0,"validate js 파일을 만들어서 모든 form 입력 값을 검증할수 있는
+
+Script 모듈을 구축함 차후 모든 from값 검증은 (front end) 
+
+xml 로 묶어서 파싱을 진행함으로 유지보수에 편리함.
+
+ 
+
+modal 업로드 작업 부분 ajax 로직개선 및 구축",,sgyang,form 값검증 모듈 개발 ;09/Sep/17 4:31 PM;sgyang;28800,,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_09/07(목),FG-78,11061,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,09/Sep/17 4:28 PM,09/Sep/17 4:28 PM,19/Oct/17 3:37 PM,,,0,"주간, 일일 ,상담 팝업 입력 관련
+
+javascript 모듈화 작업 진행 utils class를 만들어
+
+캡슐화를 통한 front 유지보수 편의 도모
+
+ 
+
+ ",,sgyang,script 모듈화 작업 진행;09/Sep/17 4:28 PM;sgyang;28800,,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_09/06(수),FG-71,11053,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,07/Sep/17 11:05 AM,07/Sep/17 11:06 AM,19/Oct/17 3:37 PM,,,0,"모달방식 변경
+
+기존 모달은 아래 깔아두고 css 로 제어를 하는 방식이라
+
+슬모없는 문서인데도 페이지 상에서 자리를 잡고 있어서 로딩시 속도가 늦어지는 경향이 보임
+
+그래서 각 필요시에 따라서 popup 모달을 ajax로 읽어서 append 하는 방식으로 변경
+
+ ",,sgyang,모달 방식 변경;07/Sep/17 11:06 AM;sgyang;36000,,,,28800,0,36000,125%,28800,0,36000,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_09/05(화),FG-70,11052,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,07/Sep/17 11:01 AM,07/Sep/17 11:02 AM,19/Oct/17 3:37 PM,,,0,"모달을 이용하여 주간, 일간 , 상담일지 
+
+입력, 수정 부분 UI작업 진행 ",,sgyang,"모달의 기본적인 모습과 주간 계획서 UI작업 및
+
+DB로부터 데이터 받아오는 작업 등을 해결;07/Sep/17 11:01 AM;sgyang;36000",,,,28800,0,36000,125%,28800,0,36000,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_09/04(월),FG-66,11048,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,04/Sep/17 9:18 PM,04/Sep/17 9:20 PM,19/Oct/17 3:37 PM,,,0,"토글 기능 구현 (특정 글 작성시 또는 코멘트 삭제 수정시 발생)
+
+상위 리스트로 이동가능하게 링크 수정
+
+기존에 잘못된 쿼리 수정 
+
+입력 수정 팝업 UI작업중 ",,sgyang,팝업 기능 수정;04/Sep/17 9:19 PM;sgyang;10800,"상위 리스트로 이동가능하게 변경 
+
+및 기존에 잘못된 쿼리 수정 ;04/Sep/17 9:19 PM;sgyang;14400",팝업 Ui작업 진행;04/Sep/17 9:20 PM;sgyang;3600,팝업 Ui작업 ;04/Sep/17 9:20 PM;sgyang;7200,28800,0,36000,125%,28800,0,36000,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_09/02(토),FG-65,11047,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,04/Sep/17 9:16 PM,04/Sep/17 9:16 PM,19/Oct/17 3:37 PM,,,0,"팝업 기능 구현 -> ajax를 사용시 5번 호출등 계속 호출회수가 늘어나는 문제를
+
+하나의 class로 변경하여 수정 (트리거 방식)
+
+ 
+
+ ",,sgyang,팝업기능 구현;04/Sep/17 9:16 PM;sgyang;28800,,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_09/01(금),FG-60,11041,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,01/Sep/17 9:51 PM,01/Sep/17 9:52 PM,16/Oct/17 11:53 AM,,,0,"comment오류 부분 수정
+
+comment 수정 삭제 기능 추가
+
+popup 레이어 디자인 및 jquery 부분 기능 추가 (ajax 통신)
+
+ ",,sgyang,"팝업 기능 및 Jquery 기능 강화
+
+ ;01/Sep/17 9:52 PM;sgyang;36000",,,,28800,0,36000,125%,28800,0,36000,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_08/31(목),FG-55,11036,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,31/Aug/17 8:54 PM,01/Sep/17 9:48 PM,19/Oct/17 3:37 PM,,,0,"상세페이지 외부접근 제어 (타유저가 URL 접근 못하게)
+
+커멘트 기능 강화",,sgyang,"상세 페이지 외부 접근 방지 및
+
+커멘트 기능 강화 ;01/Sep/17 9:48 PM;sgyang;36000",,,,28800,0,36000,125%,28800,0,36000,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_08/30(수),FG-54,11035,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,31/Aug/17 8:48 PM,31/Aug/17 8:53 PM,19/Oct/17 3:37 PM,,,0,"DB에 값을 연동하여 상세 페이지 뿌려줌
+
+주간, 일일, 상담 3가지 전부 갱신",,sgyang,주간 계획서 부분 처리;31/Aug/17 8:52 PM;sgyang;14400,일일 업무 보고 부분 처리;31/Aug/17 8:53 PM;sgyang;14400, 상담일지 부분 처리;31/Aug/17 8:53 PM;sgyang;7200,,28800,0,36000,125%,28800,0,36000,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_08/29(화),FG-51,11032,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,30/Aug/17 10:11 AM,30/Aug/17 10:12 AM,19/Oct/17 3:37 PM,,,0,"상세 페이지 UI작업 진행
+
+상세 페이지의 UI를 jira의 UI를 들고와서 뿌려줌.
+
+리스트 검색후 Click시 Controller에서 데이터를 처리하는 로직을 구현중",,sgyang,상세페이지 UI작업 진행;30/Aug/17 10:12 AM;sgyang;28800,상세 페이지에 데이터 처리 로직을 구현;30/Aug/17 10:12 AM;sgyang;7200,,,28800,0,36000,125%,28800,0,36000,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_08/28(월),FG-50,11030,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,29/Aug/17 10:12 AM,29/Aug/17 6:42 PM,19/Oct/17 3:37 PM,,,0,"*검색 기능 수정 -> (날짜에 따른 검색이 가능하게)*
+ # 5 일 이상 전 -  More than 5 days ago
+ # 지난 5분 이내 - Within the last 5 minutes
+ # A 와 B사이  -  Between   A and B 
+
+ 
+
+상세 페이지 UI 관련 분석 진행",,sgyang,데이터 픽쳐를 이용해서 검색기능 구현;29/Aug/17 10:13 AM;sgyang;14400,"기능 상세 구현 진행 
+
+컨트롤러, jquery ajax 등등;29/Aug/17 10:14 AM;sgyang;14400",상세 페이지 분석;29/Aug/17 10:14 AM;sgyang;7200,,28800,0,36000,125%,28800,0,36000,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_08/26(토),FG-45,11020,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,28/Aug/17 9:15 AM,28/Aug/17 9:17 AM,19/Oct/17 3:37 PM,,,0,"JIRA 라이선스 연장 진행 (유틸 플러그인)
+
+코드 리뷰를 위한 준비 및 코드리뷰 진행
+
+ ",,sgyang,코드리뷰 진행 ;28/Aug/17 9:16 AM;sgyang;14400,JIRA 라이선스 갱신;28/Aug/17 9:17 AM;sgyang;3600,메인페이지 ui작업 및 코드리뷰 준비;28/Aug/17 9:17 AM;sgyang;10800,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_08/25(금),FG-42,11017,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,26/Aug/17 9:52 AM,26/Aug/17 9:54 AM,19/Oct/17 3:37 PM,,,0,"리스트 기능 수정
+
+검색 기능 수정 -> jquery 기능 개선 
+
+기존에 막히던 jquery 부분을 개선
+
+ 
+
+ ",,sgyang,"검색시 팝업의 문제 ajax를 사용시 화면 갱신 문제가 발생
+
+onclik과 on 메소드의 차이를 알게 되고 대응 
+
+onclik은 한번 핸들러가 매핑이되면 추가로 append 시 
+
+매핑이 이루어지지 않음 on은 계속 핸들러 매핑을 진행함.;26/Aug/17 9:54 AM;sgyang;18000",ui 부분 수정 진행;26/Aug/17 9:54 AM;sgyang;18000,,,28800,0,36000,125%,28800,0,36000,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_08/24(목),FG-41,11016,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,26/Aug/17 9:49 AM,26/Aug/17 9:52 AM,19/Oct/17 3:37 PM,,,0,"리스트 목록 , 페이징 기능 , 검색 기능 개선
+
+기존에 사용하던 로직을 수정 
+
+코드를 좀더 간편히 수정",,sgyang,;26/Aug/17 9:51 AM;sgyang;28800,,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_08/23(수),FG-36,11003,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,24/Aug/17 9:58 AM,24/Aug/17 10:00 AM,19/Oct/17 3:37 PM,,,0,"기존 로직의 문제점을 파악하고 회의 진행
+
+회의를 통한 DB 설계 변경 및 로직 개선
+
+ 
+
+프로젝트의 방향을 two cycle에서 one cycle로 변경하고 
+
+CI 시 개선안을 완벽하게 하기로 결정 (폭포수 )
+
+ 
+
+스프링 부분 페이징 처리 진행 
+
+페이징에서 검색 부분 개선중 ",,sgyang,"로직 문제 개선 회의 진행 
+
+프로젝트의 방향성 개선;24/Aug/17 9:59 AM;sgyang;18000",페이징 기능 개선;24/Aug/17 9:59 AM;sgyang;18000,,,28800,0,36000,125%,28800,0,36000,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_08/22(화),FG-33,11000,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,22/Aug/17 8:56 PM,22/Aug/17 8:57 PM,19/Oct/17 3:37 PM,,,0,"1.리스트 페이징 기능 
+
+주간 , 일일 , 상담 3가지 페이징을 위하여 
+
+마이바티스 부분을 잡고 있음
+
+ Ajax를 사용해서 뒤면을 갱신 하는 부분을 공부함.",,sgyang,popup 부분 ui 문제가 있어서 개선;22/Aug/17 8:56 PM;sgyang;14400,검색을 컨트롤러에서 어떻게 처리할지 확인 ;22/Aug/17 8:57 PM;sgyang;14400,페이징 기능 구현중;22/Aug/17 8:57 PM;sgyang;7200,,28800,0,36000,125%,28800,0,36000,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_08/21(월),FG-30,10997,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,21/Aug/17 9:04 PM,22/Aug/17 8:51 PM,19/Oct/17 3:37 PM,,,0,"1.리스트 검색 팝업 작업
+
+javascript를 이용해서 서블릿에 데이터를 전송해서 리스트를 뽑는 작업 진행
+
+전체적인 CSS는 완료 이제 데이터를 받아서 처리하는 작업 진행중 ",,sgyang,검색 팝업 css 및 javascript 를 작업함.;21/Aug/17 9:05 PM;sgyang;18000,서블릿에 데이터를 전달하고 받아서 뿌리는 작업을 진행함.;21/Aug/17 9:05 PM;sgyang;18000,,,28800,0,36000,125%,28800,0,36000,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_08/18(금),FG-29,10996,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,21/Aug/17 9:02 PM,21/Aug/17 9:03 PM,19/Oct/17 3:37 PM,,,0,"*1.기본 UI 작업 진행*
+
+상하 , 좌우 UI 만들고 top 부분 UI 작업 및
+
+화면을 축소시 변형이 안되도록 고정
+
+ 
+
+*2. 리스트 UI* 
+
+리스트 화면  UI 작업 진행 전체 적인 css 골격을 만듬",,sgyang,UI작업 완료 ~!;21/Aug/17 9:02 PM;sgyang;28800,,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_08/17(목),FG-24,10946,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,17/Aug/17 9:29 PM,17/Aug/17 9:31 PM,16/Oct/17 12:13 PM,,,0,"*시큐리티* 
+
+스프링 시큐리티를 이용하여 로그인 기능 구현 (기존 기능에서 상향)
+
+*MessageSource*
+
+로깅 을 로그백을 사용해서 진행하는데 이때 예외 문구를 MessageSource로 처리
+
+*전역 예외처리*
+
+전역 예외 class를 만들어 전역 예외처리 진행
+
+ ",,sgyang,"로컬 환경에서 messageSource 및 전역 예외처리 기능을 test 진행함.
+
+로깅 부분또한 처리하여 확인  ;17/Aug/17 9:30 PM;sgyang;18000","빌드서버에 올렸지만 작동하지 않아 고생을함.
+
+알고보니 시뮤리티 부분은 추가로 설정해야 하는것이 있었음
+
+그부분 수정하니 정상 작동함.;17/Aug/17 9:31 PM;sgyang;18000",,,28800,0,36000,125%,28800,0,36000,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_08/16(수),FG-21,10943,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,16/Aug/17 9:57 PM,16/Aug/17 9:58 PM,16/Oct/17 12:13 PM,,,0,"1. 로그인 UI
+
+로그인 UI는 [http://designsparkle.com/login-form-templates/] 사이트의 UI중 하나를 커스텀하여 작성함
+
+2. 스프링 시큐리티
+
+스프링 시큐리티를 사용하여 Login 및 Logout 기능 구현
+
+보안을 좀더 세밀하게 구현함.",,sgyang,로그인 기능 구현 완료;16/Aug/17 9:58 PM;sgyang;28800,,,,28800,0,28800,100%,28800,0,28800,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_08/11(금),FG-18,10932,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,14/Aug/17 6:53 PM,14/Aug/17 6:56 PM,16/Oct/17 12:13 PM,,,0,"*1. JIRA 2팀 ticket 관련 설정 진행* 
+
+기존에 우리팀의 JIRA 필드들만 설정이 되어 있었는데
+
+2팀의 환경 설정 내용을 전달받아서 진행함.
+
+ 
+
+*2. 팀 Tasking작업* 
+
+금주간 개발 진행 현황 분석 및 피드백 진행
+
+팀원 각자의 30일 기준의 tasking을 받아서 티켓팅 진행
+
+ 
+
+3. web 개발환경 세팅 및 작업 진행
+
+기본 개발 템플릿을 분석 및 작업중 
+
+현재는 최상위 메뉴바를 만듬
+
+ ",,sgyang,JIRA 설정 작업 진행;14/Aug/17 6:54 PM;sgyang;10800, 팀원 회의 진행;14/Aug/17 6:55 PM;sgyang;5400,tasking 작업 및 웹 기본 개발;14/Aug/17 6:55 PM;sgyang;19800,,28800,0,36000,125%,28800,0,36000,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_08/10(목),FG-16,10916,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,11/Aug/17 2:48 PM,11/Aug/17 2:54 PM,16/Oct/17 12:11 PM,,,0,"빌드 서버 구성 진행  수요일 jenkins를 빌드중 maven 을 찾을수 없다는 error가 발생
+
+검색시 환경변수를 설정 하라는데 아무리 해도 안먹혀서 apt로 
+
+maven을 깔니깐 그제서야 작동함. 
+
+ 
+
+다시 빌드하니 maven은 잡히는데 원인을 모를 deploy error가 발생 
+
+결국 tomcat을 다시 깔고 maven 설정을 다시 진행
+
+ 
+
+10번 넘깨 하다 보니 tomcat 7 , 8 은 안대혁 강사님 코드랑 다르게 설정해야 한다는 것을 알게됨
+
+설정을 하고 pom.xml을 수정하니 연결이 되었지만 자꾸 error 발생
+
+ 확인해보니 권한에 문제가 발생 모든 실행 유저를 tomcat에게 할당
+
+ 
+
+하지만 이번에는 빌드는 성공하지만 페이지가 tomcat에 로드되지 않음 
+
+context를 찾을수 없다 하여 빌드된 war파일을 보니 application.xml이 없음
+
+알고보니 class path를 리눅스가 못찾아서 발생하는 오류임 
+
+그냥 포기하고 application.xml을 다른 경로에 두고 고정(절대 경로)로 지정하니
+
+모든것을 성공함.
+
+ ",,sgyang,;11/Aug/17 2:49 PM;sgyang;43200,,,,28800,0,43200,150%,28800,0,43200,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_08/09(수),FG-11,10909,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,09/Aug/17 4:03 PM,11/Aug/17 2:38 PM,19/Oct/17 3:37 PM,,,0,"*서버 작업*
+
+jdk 설치 , maven 설치 , mysql 설치 
+
+git 설치 및 설정
+
+jenkins 설치 및 설정
+
+ 
+
+*개발환경 구성*
+
+로컬 개발 환경에 git 설치
+
+maven 설치 ,tomcat 설치 ,mysql 설치
+
+jdk , eclipse 설치 및 설정 
+
+localhost 로 test진행 
+
+git 이랑 local 연동 
+
+ ",,sgyang,"서버 모든 빌딩 환경 구성 진행
+
+서버 IP -> 192.168.1.32;09/Aug/17 4:04 PM;sgyang;14400","tomcat을 기존에 설치한걸 부어서 사용할려고 하니 문제가 발생
+
+ tomcat tar 파일을 다운받아서 다시 세팅 진행;11/Aug/17 2:37 PM;sgyang;14400","git 설치 를 완전히 마치고 test 작업을 진행 test 가 양호함
+
+jenkins도 apt로 설치 하지 않고 war 파일을 tomcat 에 넣어서 배포하여
+
+설정 진행 하지만 error사 발생하여 고전중;11/Aug/17 2:38 PM;sgyang;14400",,28800,0,43200,150%,28800,0,43200,,,,,,,,,,,,,,,,,,,,,,
+[ToDo] 양승근_08/08(화),FG-7,10901,ToDo,Closed,FG,First Group,business,sgyang,,,Top,,sgyang,sgyang,sgyang,08/Aug/17 7:01 PM,11/Aug/17 2:54 PM,16/Oct/17 12:11 PM,,,0,"JIRA 와 Confluence 설치를  진행함.
+
+기존에 서버에서 들고오니 자꾸 문제가 발생해서 리스토어만 10번 넘께 진행
+
+ 
+
+mysql 을 그대로 부으면 문제가 발생해서 apt로 깔고 데이터 파일만 복구 진행
+
+모든 환경 구성이 끝나서 빌드서버를 기존엔 같이 썻지만 서버가 많이 남아서 따로 때기로 결정
+
+ ",,sgyang,sdfsdfd;08/Aug/17 7:02 PM;sgyang;1200,dsfwqe;08/Aug/17 7:02 PM;sgyang;28800,,,28800,0,30000,104%,28800,0,30000,,,,,,,,,,,,,,,,,,,,,,
